@@ -49,51 +49,58 @@
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;Deployment&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;Organisation&lt;/th&gt;
+&lt;th&gt;License&lt;/th&gt;
 &lt;th&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;mip-microservices-infrastructure&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/mip-microservices-infrastructure&#34;&gt;mip-microservices-infrastructure&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/mip-microservices-infrastructure/blob/master/LICENSE.md&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;dev-setup&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/dev-setup&#34;&gt;dev-setup&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/dev-setup/blob/master/LICENSE.md&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;RAW-deploy&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;ansible-airflow&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/RAW-deploy&#34;&gt;RAW-deploy&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://dias.epfl.ch/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg&#34; alt=&#34;EPFL&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;docker-flyway&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/ansible-airflow&#34;&gt;ansible-airflow&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;labkey-docker&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/docker-flyway&#34;&gt;docker-flyway&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/docker-flyway/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/xnat-docker&#34;&gt;xnat-docker&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/xnat-docker/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/labkey-docker&#34;&gt;labkey-docker&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -251,6 +258,36 @@
 &lt;/table&gt;
 
 &lt;h2 id=&#34;docker-images&#34;&gt;Docker images&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Docker image&lt;/th&gt;
+&lt;th&gt;License&lt;/th&gt;
+&lt;th&gt;Build status&lt;/th&gt;
+&lt;th&gt;Image version&lt;/th&gt;
+&lt;th&gt;Image layers&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/lren/flyway/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/docker-lren%2Fflyway-008bb8.svg&#34; alt=&#34;DockerHub&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/docker-flyway/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://circleci.com/gh/LREN-CHUV/docker-flyway/tree/master&#34;&gt;&lt;img src=&#34;https://circleci.com/gh/LREN-CHUV/docker-flyway/tree/master.svg?style=svg&#34; alt=&#34;CircleCI&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/lren/flyway/tags&#34; title=&#34;lren/flyway image tags&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/version/lren/flyway.svg&#34; alt=&#34;ImageVersion&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://microbadger.com/#/images/lren/flyway&#34; title=&#34;lren/flyway on microbadger&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/image/lren/flyway.svg&#34; alt=&#34;ImageLayers&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/lren/xnat/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/docker-lren%2Fxnat-008bb8.svg&#34; alt=&#34;DockerHub&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://xnat.org/download/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://circleci.com/gh/LREN-CHUV/xnat-docker/tree/master&#34;&gt;&lt;img src=&#34;https://circleci.com/gh/LREN-CHUV/xnat-docker/tree/master.svg?style=svg&#34; alt=&#34;CircleCI&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/lren/xnat/tags&#34; title=&#34;lren/xnat image tags&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/version/lren/xnat.svg&#34; alt=&#34;ImageVersion&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://microbadger.com/#/images/lren/xnat&#34; title=&#34;lren/xnat on microbadger&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/image/lren/xnat.svg&#34; alt=&#34;ImageLayers&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 </description>
     </item>
     
