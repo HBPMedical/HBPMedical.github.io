@@ -15,9 +15,12 @@ title: Software catalog
 | [xnat-docker](https://github.com/HBPSP8Repo/xnat-docker) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](https://github.com/LREN-CHUV/xnat-docker/blob/master/LICENSE) |   |
 | [labkey-docker](https://github.com/HBPSP8Repo/labkey-docker) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) |   |   |
 
-| Portal                                      |   |   |   |
-|---------------------------------------------|---|---|---|
-| portal-specs                                |   |   |   |
+| Portal                                      | Organisation | License |   |
+|---------------------------------------------|--------------|---------|---|
+| [portal-specs](https://github.com/HBPSP8Repo/portal-specs) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) |   |   |
+| [portal-backend](https://github.com/HBPSP8Repo/portal-backend) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-AGPL--3.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0.html) |   |
+| [portal-frontend](https://github.com/HBPSP8Repo/portal-frontend) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) |   |   |
+| [bootstrap-mip-app](https://github.com/HBPSP8Repo/bootstrap-mip-app) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/LREN-CHUV/bootstrap-mip-app/blob/master/LICENSE)
 
 | Algorithm Factory |                                  |   |   |   |
 |-------------------|----------------------------------|---|---|---|
