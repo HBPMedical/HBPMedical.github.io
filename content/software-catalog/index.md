@@ -36,6 +36,10 @@ title: Software Catalog
 | [hbplregress](https://github.com/HBPSP8Repo/hbplregress) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) |   |   |   |
 | [hbpsummarystats](https://github.com/HBPSP8Repo/hbpsummarystats) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) |   |   |   |
 | [Rtsne](https://github.com/HBPSP8Repo/Rtsne) |  |   |   |   |
+| [CCC](https://github.com/HBPSP8Repo/CCC) | [![TAU](https://img.shields.io/badge/TAU-ICTAF-AD2C32.svg)](http://ictaf.tau.ac.il/index.asp?lang=eng) |   |   |   |
+| [jsi-functions](https://github.com/HBPSP8Repo/jsi-functions) | [![JSI](https://img.shields.io/badge/JSI-KT-CCDDEE.svg)](http://kt.ijs.si/) |   |   |   |
+| [bhtsne](https://github.com/HBPSP8Repo/bhtsne) | [![JSI](https://img.shields.io/badge/JSI-KT-CCDDEE.svg)](http://kt.ijs.si/) |   |   |   |
+| [Rtsne](https://github.com/HBPSP8Repo/Rtsne) | [![JSI](https://img.shields.io/badge/JSI-KT-CCDDEE.svg)](http://kt.ijs.si/) |   |   |   |
 
 | Data Factory      | Organisation |   |   |   |
 |-------------------|----------------------------------|---|---|---|
