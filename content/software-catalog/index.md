@@ -1,6 +1,6 @@
 ---
 date: 2016-09-28T12:26:34+02:00
-title: Software catalog
+title: Software Catalog
 ---
 
 ## Open source software
@@ -22,25 +22,29 @@ title: Software catalog
 | [portal-frontend](https://github.com/HBPSP8Repo/portal-frontend) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-AGPL--3.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0.html) |   |
 | [bootstrap-mip-app](https://github.com/HBPSP8Repo/bootstrap-mip-app) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/LREN-CHUV/bootstrap-mip-app/blob/master/LICENSE)
 
-| Algorithm Factory |                                  |   |   |   |
+| Algorithm Factory | Organisation |   |   |   |
 |-------------------|----------------------------------|---|---|---|
-|                   | woken                            |   |   |   |
-|                   | base-docker-images               |   |   |   |
-|                   | functions-repository             |   |   |   |
-|                   | functions-repository             |   |   |   |
-|                   | exareme                          |   |   |   |
+| [woken](https://github.com/HBPSP8Repo/woken) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) |   |   |   |
+| [base-docker-images](https://github.com/HBPSP8Repo/base-docker-images) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) |   |   |   |
+| [functions-repository](https://github.com/HBPSP8Repo/functions-repository) |  [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) |   |   |   |
+| [exareme](https://github.com/HBPSP8Repo/exareme) |  |   |   |   |
 
 | Algorithm Library |                                  |   |   |   |
 |-------------------|----------------------------------|---|---|---|
-|                   | mip-algorithms                   |   |   |   |
-|                   | hbpjdbcconnect                   |   |   |   |
-|                   | hbplregress                      |   |   |   |
-|                   | hbpsummarystats                  |   |   |   |
-|                   | Rtsne                            |   |   |   |
+| [mip-algorithms](https://github.com/HBPSP8Repo/mip-algorithms) |  |   |   |   |
+| [hbpjdbcconnect](https://github.com/HBPSP8Repo/hbpjdbcconnect) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html)  |   |   |   |
+| [hbplregress](https://github.com/HBPSP8Repo/hbplregress) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) |   |   |   |
+| [hbpsummarystats](https://github.com/HBPSP8Repo/hbpsummarystats) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) |   |   |   |
+| [Rtsne](https://github.com/HBPSP8Repo/Rtsne) |  |   |   |   |
 
-| Data Factory      |                                  |   |   |   |
+| Data Factory      | Organisation |   |   |   |
 |-------------------|----------------------------------|---|---|---|
-|                   | meta-extract                     |   |   |   |
+| [meta-extract](https://github.com/HBPSP8Repo/meta-extract) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) |   |   |   |
+
+| Hospital Bundle      | Organisation |   |   |   |
+|-------------------|----------------------------------|---|---|---|
+| [mipmap](https://github.com/HBPSP8Repo/MIPMap) | | | | |
+
 
 ## Docker images
 
