@@ -21,6 +21,8 @@ title: Software Catalog
 | [portal-backend](https://github.com/HBPSP8Repo/portal-backend) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-AGPL--3.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0.html) |   |   |
 | [portal-frontend](https://github.com/HBPSP8Repo/portal-frontend) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-AGPL--3.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0.html) | [![Trello](https://img.shields.io/badge/trello-web--frontend-blue.svg)](https://trello.com/b/lr3NS4W6/dev-web-front-end) |   |
 | [bootstrap-mip-app](https://github.com/HBPSP8Repo/bootstrap-mip-app) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/LREN-CHUV/bootstrap-mip-app/blob/master/LICENSE) |   |   |
+| [sunburst](https://github.com/HBPSP8Repo/sunburst) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](https://github.com/HBPSP8Repo/sunburst/blob/master/LICENSE) |   |   |
+| [gene-expression](https://github.com/HBPSP8Repo/gene-expression) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](https://github.com/HBPSP8Repo/gene-expression/blob/master/LICENSE) |   |   |
 
 | Algorithm Factory | Organisation | License | Management | Continuous integration |
 |-------------------|--------------|---------|------------|------------------------|
@@ -32,7 +34,6 @@ title: Software Catalog
 | [hbpjdbcconnect](https://github.com/HBPSP8Repo/hbpjdbcconnect) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html)  |   |   |   |
 | [hbplregress](https://github.com/HBPSP8Repo/hbplregress) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) |   |   |   |
 | [hbpsummarystats](https://github.com/HBPSP8Repo/hbpsummarystats) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) |   |   |   |
-| [Rtsne](https://github.com/HBPSP8Repo/Rtsne) |  |   |   |   |
 | [CCC](https://github.com/HBPSP8Repo/CCC) | [![TAU](https://img.shields.io/badge/TAU-ICTAF-AD2C32.svg)](http://ictaf.tau.ac.il/index.asp?lang=eng) |   |   |   |
 | [jsi-functions](https://github.com/HBPSP8Repo/jsi-functions) | [![JSI](https://img.shields.io/badge/JSI-KT-CCDDEE.svg)](http://kt.ijs.si/) |   |   |   |
 | [bhtsne](https://github.com/HBPSP8Repo/bhtsne) | [![JSI](https://img.shields.io/badge/JSI-KT-CCDDEE.svg)](http://kt.ijs.si/) |   |   |   |
