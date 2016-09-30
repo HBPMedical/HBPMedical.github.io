@@ -43,6 +43,10 @@
       <guid>https://hbpsp8repo.github.io/software-catalog/</guid>
       <description>
 
+&lt;p&gt;This catalog attempts to collect all open-source software produced for the Medical Informatics Platform.&lt;/p&gt;
+
+&lt;p&gt;It should contain all publicly accessible software for the phase SGA1 month 6.&lt;/p&gt;
+
 &lt;h2 id=&#34;open-source-software&#34;&gt;Open source software&lt;/h2&gt;
 
 &lt;table&gt;
@@ -69,7 +73,7 @@
 &lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/dev-setup&#34;&gt;dev-setup&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/dev-setup/blob/master/LICENSE.md&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://trello.com/b/4lsExdnC/dev-development-tools&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/trello-development--tools-blue.svg&#34; alt=&#34;Trello&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
@@ -84,7 +88,7 @@
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/ansible-airflow&#34;&gt;ansible-airflow&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/ansible-airflow/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -108,7 +112,7 @@
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/labkey-docker&#34;&gt;labkey-docker&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/labkey-docker/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -121,7 +125,8 @@
 &lt;th&gt;Portal&lt;/th&gt;
 &lt;th&gt;Organisation&lt;/th&gt;
 &lt;th&gt;License&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;Management&lt;/th&gt;
+&lt;th&gt;Continuous integration&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
@@ -131,6 +136,7 @@
 &lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -138,12 +144,14 @@
 &lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.gnu.org/licenses/agpl-3.0.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-AGPL--3.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://circleci.com/gh/LREN-CHUV/portal-backend/tree/master&#34;&gt;&lt;img src=&#34;https://circleci.com/gh/LREN-CHUV/portal-backend/tree/master.svg?style=svg&#34; alt=&#34;CircleCI&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/portal-frontend&#34;&gt;portal-frontend&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.gnu.org/licenses/agpl-3.0.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-AGPL--3.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://trello.com/b/lr3NS4W6/dev-web-front-end&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/trello-web--frontend-blue.svg&#34; alt=&#34;Trello&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
@@ -151,6 +159,45 @@
 &lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/bootstrap-mip-app&#34;&gt;bootstrap-mip-app&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/bootstrap-mip-app/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/sunburst&#34;&gt;sunburst&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/sunburst/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-GPL--3.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Model of disease&lt;/th&gt;
+&lt;th&gt;Organisation&lt;/th&gt;
+&lt;th&gt;License&lt;/th&gt;
+&lt;th&gt;Management&lt;/th&gt;
+&lt;th&gt;Continuous integration&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/gene-expression&#34;&gt;gene-expression&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/gene-expression/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-GPL--3.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/2d-biological-rules&#34;&gt;2d-biological-rules&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/2d-biological-rules/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-GPL--3.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -161,9 +208,9 @@
 &lt;tr&gt;
 &lt;th&gt;Algorithm Factory&lt;/th&gt;
 &lt;th&gt;Organisation&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;License&lt;/th&gt;
+&lt;th&gt;Management&lt;/th&gt;
+&lt;th&gt;Continuous integration&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
@@ -171,7 +218,7 @@
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/woken&#34;&gt;woken&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/woken/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -193,9 +240,31 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/exareme&#34;&gt;exareme&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/exareme&#34;&gt;Exareme&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.madgik.di.uoa.gr/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/UOA-madgik-BDCFD6.svg&#34; alt=&#34;UOA&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/exareme/blob/mip/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Data Factory&lt;/th&gt;
+&lt;th&gt;Organisation&lt;/th&gt;
+&lt;th&gt;License&lt;/th&gt;
+&lt;th&gt;Management&lt;/th&gt;
+&lt;th&gt;Continuous integration&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/meta-extract&#34;&gt;meta-extract&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/meta-extract/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -206,18 +275,26 @@
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;Algorithm Library&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;Organisation&lt;/th&gt;
+&lt;th&gt;License&lt;/th&gt;
+&lt;th&gt;Management&lt;/th&gt;
+&lt;th&gt;Continuous integration&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/mip-algorithms&#34;&gt;mip-algorithms&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.fil.ion.ucl.ac.uk/~john/LabelProp/&#34;&gt;Label Propagation Framework&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.fil.ion.ucl.ac.uk/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/UCL-Wellcome%20Trust-F6C100.svg&#34; alt=&#34;UCL&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/mip-algorithms&#34;&gt;Exareme mip-algorithms&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.madgik.di.uoa.gr/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/UOA-madgik-BDCFD6.svg&#34; alt=&#34;UOA&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/mip-algorithms/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -241,14 +318,6 @@
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/hbpsummarystats&#34;&gt;hbpsummarystats&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/Rtsne&#34;&gt;Rtsne&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
@@ -291,40 +360,58 @@
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th&gt;Data Factory&lt;/th&gt;
+&lt;th&gt;Hospital database Bundle&lt;/th&gt;
 &lt;th&gt;Organisation&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;License&lt;/th&gt;
+&lt;th&gt;Management&lt;/th&gt;
+&lt;th&gt;Continuous integration&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/meta-extract&#34;&gt;meta-extract&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/MIPMap&#34;&gt;MIPMap&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.aueb.gr/index_en.php&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/aueb-wim-9D5459.svg&#34; alt=&#34;AUEB&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
 
-&lt;table&gt;
-&lt;thead&gt;
 &lt;tr&gt;
-&lt;th&gt;Hospital Bundle&lt;/th&gt;
-&lt;th&gt;Organisation&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/MIPMap&#34;&gt;mipmap&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/WebMIPMap&#34;&gt;WebMIPMap&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.aueb.gr/index_en.php&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/aueb-wim-9D5459.svg&#34; alt=&#34;AUEB&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/MIPMapRew&#34;&gt;MIPMapRew&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.aueb.gr/index_en.php&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/aueb-wim-9D5459.svg&#34; alt=&#34;AUEB&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/raw&#34;&gt;raw&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://dias.epfl.ch/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg&#34; alt=&#34;EPFL&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/raw/blob/mip/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/raw&#34;&gt;raw&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://dias.epfl.ch/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg&#34; alt=&#34;EPFL&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/raw/blob/mip/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/raw-frontend&#34;&gt;raw-frontend&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://dias.epfl.ch/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg&#34; alt=&#34;EPFL&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
@@ -363,6 +450,69 @@
 &lt;td&gt;&lt;a href=&#34;https://circleci.com/gh/LREN-CHUV/xnat-docker/tree/master&#34;&gt;&lt;img src=&#34;https://circleci.com/gh/LREN-CHUV/xnat-docker/tree/master.svg?style=svg&#34; alt=&#34;CircleCI&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/lren/xnat/tags&#34; title=&#34;lren/xnat image tags&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/version/lren/xnat.svg&#34; alt=&#34;ImageVersion&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://microbadger.com/#/images/lren/xnat&#34; title=&#34;lren/xnat on microbadger&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/image/lren/xnat.svg&#34; alt=&#34;ImageLayers&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/lren/labkey/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/docker-lren%2Flabkey-008bb8.svg&#34; alt=&#34;DockerHub&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/labkey-docker/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/lren/labkey/tags&#34; title=&#34;lren/labkey image tags&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/version/lren/labkey.svg&#34; alt=&#34;ImageVersion&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://microbadger.com/#/images/lren/labkey&#34; title=&#34;lren/labkey on microbadger&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/image/lren/labkey.svg&#34; alt=&#34;ImageLayers&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/hbpmip/woken/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/docker-hbpmip%2Fwoken-008bb8.svg&#34; alt=&#34;DockerHub&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/woken/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/hbpmip/woken/tags&#34; title=&#34;hbpmip/woken image tags&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/version/hbpmip/woken.svg&#34; alt=&#34;ImageVersion&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://microbadger.com/#/images/hbpmip/woken&#34; title=&#34;hbpmip/woken on microbadger&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/image/hbpmip/woken.svg&#34; alt=&#34;ImageLayers&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/hbpmip/portal-backend/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/docker-hbpmip%2Fportal--backend-008bb8.svg&#34; alt=&#34;DockerHub&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.gnu.org/licenses/agpl-3.0.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-AGPL--3.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/hbpmip/portal-backend/tags&#34; title=&#34;hbpmip/portal-backend image tags&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/version/hbpmip/portal-backend.svg&#34; alt=&#34;ImageVersion&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://microbadger.com/#/images/hbpmip/portal-backend&#34; title=&#34;hbpmip/portal-backend on microbadger&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/image/hbpmip/portal-backend.svg&#34; alt=&#34;ImageLayers&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/hbpmip/portal-frontend/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/docker-hbpmip%2Fportal--frontend-008bb8.svg&#34; alt=&#34;DockerHub&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.gnu.org/licenses/agpl-3.0.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-AGPL--3.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/hbpmip/portal-frontend/tags&#34; title=&#34;hbpmip/portal-frontend image tags&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/version/hbpmip/portal-frontend.svg&#34; alt=&#34;ImageVersion&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://microbadger.com/#/images/hbpmip/portal-frontend&#34; title=&#34;hbpmip/portal-frontend on microbadger&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/image/hbpmip/portal-frontend.svg&#34; alt=&#34;ImageLayers&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/sambuc/hbp-raw-engine/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/docker-sambuc%2Fhbp--raw--engine-008bb8.svg&#34; alt=&#34;DockerHub&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://dias.epfl.ch/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg&#34; alt=&#34;EPFL&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/sambuc/hbp-raw-engine/tags&#34; title=&#34;sambuc/hbp-raw-engine image tags&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/version/sambuc/hbp-raw-engine.svg&#34; alt=&#34;ImageVersion&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://microbadger.com/#/images/sambuc/hbp-raw-engine&#34; title=&#34;sambuc/hbp-raw-engine on microbadger&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/image/sambuc/hbp-raw-engine.svg&#34; alt=&#34;ImageLayers&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/sambuc/hbp-raw-sniffer/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/docker-sambuc%2Fhbp--raw--sniffer-008bb8.svg&#34; alt=&#34;DockerHub&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://dias.epfl.ch/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg&#34; alt=&#34;EPFL&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/sambuc/hbp-raw-sniffer/tags&#34; title=&#34;sambuc/hbp-raw-sniffer image tags&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/version/sambuc/hbp-raw-sniffer.svg&#34; alt=&#34;ImageVersion&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://microbadger.com/#/images/sambuc/hbp-raw-sniffer&#34; title=&#34;sambuc/hbp-raw-sniffer on microbadger&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/image/sambuc/hbp-raw-sniffer.svg&#34; alt=&#34;ImageLayers&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/sambuc/hbp-raw-admin/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/docker-sambuc%2Fhbp--raw--admin-008bb8.svg&#34; alt=&#34;DockerHub&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://dias.epfl.ch/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg&#34; alt=&#34;EPFL&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/sambuc/hbp-raw-admin/tags&#34; title=&#34;sambuc/hbp-raw-admin image tags&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/version/sambuc/hbp-raw-admin.svg&#34; alt=&#34;ImageVersion&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://microbadger.com/#/images/sambuc/hbp-raw-admin&#34; title=&#34;sambuc/hbp-raw-admin on microbadger&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/image/sambuc/hbp-raw-admin.svg&#34; alt=&#34;ImageLayers&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
