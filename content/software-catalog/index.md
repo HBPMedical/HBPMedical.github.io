@@ -3,6 +3,10 @@ date: 2016-09-28T12:26:34+02:00
 title: Software Catalog
 ---
 
+This catalog attempts to collect all open-source software produced for the Medical Informatics Platform.
+
+It should contain all publicly accessible software for the phase SGA1 month 6.
+
 ## Open source software
 
 | Deployment | Organisation | License | Management | Continuous integration |
@@ -18,19 +22,31 @@ title: Software Catalog
 | Portal | Organisation | License | Management | Continuous integration |
 |--------|--------------|---------|------------|------------------------|
 | [portal-specs](https://github.com/HBPSP8Repo/portal-specs) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) |   |   |   |
-| [portal-backend](https://github.com/HBPSP8Repo/portal-backend) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-AGPL--3.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0.html) |   |   |
+| [portal-backend](https://github.com/HBPSP8Repo/portal-backend) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-AGPL--3.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0.html) |   | [![CircleCI](https://circleci.com/gh/LREN-CHUV/portal-backend/tree/master.svg?style=svg)](https://circleci.com/gh/LREN-CHUV/portal-backend/tree/master) |
 | [portal-frontend](https://github.com/HBPSP8Repo/portal-frontend) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-AGPL--3.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0.html) | [![Trello](https://img.shields.io/badge/trello-web--frontend-blue.svg)](https://trello.com/b/lr3NS4W6/dev-web-front-end) |   |
 | [bootstrap-mip-app](https://github.com/HBPSP8Repo/bootstrap-mip-app) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/LREN-CHUV/bootstrap-mip-app/blob/master/LICENSE) |   |   |
 | [sunburst](https://github.com/HBPSP8Repo/sunburst) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](https://github.com/HBPSP8Repo/sunburst/blob/master/LICENSE) |   |   |
+
+| Model of disease | Organisation | License | Management | Continuous integration |
+|--------|--------------|---------|------------|------------------------|
 | [gene-expression](https://github.com/HBPSP8Repo/gene-expression) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](https://github.com/HBPSP8Repo/gene-expression/blob/master/LICENSE) |   |   |
+| [2d-biological-rules](https://github.com/HBPSP8Repo/2d-biological-rules) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](https://github.com/HBPSP8Repo/2d-biological-rules/blob/master/LICENSE) |   |   |
 
 | Algorithm Factory | Organisation | License | Management | Continuous integration |
 |-------------------|--------------|---------|------------|------------------------|
 | [woken](https://github.com/HBPSP8Repo/woken) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-Apache2.0-blue.svg)](https://github.com/HBPSP8Repo/woken/blob/master/LICENSE) |   |   |
 | [base-docker-images](https://github.com/HBPSP8Repo/base-docker-images) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) |   |   |   |
 | [functions-repository](https://github.com/HBPSP8Repo/functions-repository) |  [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) |   |   |   |
-| [exareme](https://github.com/HBPSP8Repo/exareme) |   | [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/HBPSP8Repo/exareme/blob/mip/LICENSE) |   |   |
-| [mip-algorithms](https://github.com/HBPSP8Repo/mip-algorithms) |   | [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/HBPSP8Repo/mip-algorithms/blob/master/LICENSE) |   |   |
+| [Exareme](https://github.com/HBPSP8Repo/exareme) | [![UOA](https://img.shields.io/badge/UOA-madgik-BDCFD6.svg)](http://www.madgik.di.uoa.gr/) | [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/HBPSP8Repo/exareme/blob/mip/LICENSE) |   |   |
+
+| Data Factory | Organisation | License | Management | Continuous integration |
+|--------------|--------------|---------|------------|------------------------|
+| [meta-extract](https://github.com/HBPSP8Repo/meta-extract) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-Apache2.0-blue.svg)](https://github.com/HBPSP8Repo/meta-extract/blob/master/LICENSE) |   |   |
+
+| Algorithm Library | Organisation | License | Management | Continuous integration |
+|-------------------|--------------|---------|------------|------------------------|
+| [Label Propagation Framework](http://www.fil.ion.ucl.ac.uk/~john/LabelProp/) | [![UCL](https://img.shields.io/badge/UCL-Wellcome%20Trust-F6C100.svg)](http://www.fil.ion.ucl.ac.uk/) |   |   |   |
+| [Exareme mip-algorithms](https://github.com/HBPSP8Repo/mip-algorithms) | [![UOA](https://img.shields.io/badge/UOA-madgik-BDCFD6.svg)](http://www.madgik.di.uoa.gr/) | [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/HBPSP8Repo/mip-algorithms/blob/master/LICENSE) |   |   |
 | [hbpjdbcconnect](https://github.com/HBPSP8Repo/hbpjdbcconnect) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html)  |   |   |   |
 | [hbplregress](https://github.com/HBPSP8Repo/hbplregress) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) |   |   |   |
 | [hbpsummarystats](https://github.com/HBPSP8Repo/hbpsummarystats) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) |   |   |   |
@@ -39,14 +55,14 @@ title: Software Catalog
 | [bhtsne](https://github.com/HBPSP8Repo/bhtsne) | [![JSI](https://img.shields.io/badge/JSI-KT-CCDDEE.svg)](http://kt.ijs.si/) |   |   |   |
 | [Rtsne](https://github.com/HBPSP8Repo/Rtsne) | [![JSI](https://img.shields.io/badge/JSI-KT-CCDDEE.svg)](http://kt.ijs.si/) |   |   |   |
 
-| Data Factory | Organisation | License | Management | Continuous integration |
-|--------------|--------------|---------|------------|------------------------|
-| [meta-extract](https://github.com/HBPSP8Repo/meta-extract) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-Apache2.0-blue.svg)](https://github.com/HBPSP8Repo/meta-extract/blob/master/LICENSE) |   |   |
-
-| Hospital Bundle | Organisation | License  |  Management | Continuous integration |
+| Hospital database Bundle | Organisation | License  | Management | Continuous integration |
 |-----------------|--------------|----------|-------------|------------------------|
-| [mipmap](https://github.com/HBPSP8Repo/MIPMap) |   |   |   |   |
-
+| [MIPMap](https://github.com/HBPSP8Repo/MIPMap) | [![AUEB](https://img.shields.io/badge/aueb-wim-9D5459.svg)](http://www.aueb.gr/index_en.php) |   |   |   |
+| [WebMIPMap](https://github.com/HBPSP8Repo/WebMIPMap) | [![AUEB](https://img.shields.io/badge/aueb-wim-9D5459.svg)](http://www.aueb.gr/index_en.php) |   |   |   |
+| [MIPMapRew](https://github.com/HBPSP8Repo/MIPMapRew) | [![AUEB](https://img.shields.io/badge/aueb-wim-9D5459.svg)](http://www.aueb.gr/index_en.php) |   |   |   |
+| [raw](https://github.com/HBPSP8Repo/raw) | [![EPFL](https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg)](http://dias.epfl.ch/) | [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/HBPSP8Repo/raw/blob/mip/LICENSE) |   |   |
+| [raw](https://github.com/HBPSP8Repo/raw) | [![EPFL](https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg)](http://dias.epfl.ch/) | [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/HBPSP8Repo/raw/blob/mip/LICENSE) |   |   |
+| [raw-frontend](https://github.com/HBPSP8Repo/raw-frontend) | [![EPFL](https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg)](http://dias.epfl.ch/) |   |   |   |
 
 ## Docker images
 
@@ -58,3 +74,6 @@ title: Software Catalog
 | [![DockerHub](https://img.shields.io/badge/docker-hbpmip%2Fwoken-008bb8.svg)](https://hub.docker.com/r/hbpmip/woken/) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](https://github.com/LREN-CHUV/woken/blob/master/LICENSE) |   | [![ImageVersion](https://images.microbadger.com/badges/version/hbpmip/woken.svg)](https://hub.docker.com/r/hbpmip/woken/tags "hbpmip/woken image tags") | [![ImageLayers](https://images.microbadger.com/badges/image/hbpmip/woken.svg)](https://microbadger.com/#/images/hbpmip/woken "hbpmip/woken on microbadger") |
 | [![DockerHub](https://img.shields.io/badge/docker-hbpmip%2Fportal--backend-008bb8.svg)](https://hub.docker.com/r/hbpmip/portal-backend/) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-AGPL--3.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0.html) |   | [![ImageVersion](https://images.microbadger.com/badges/version/hbpmip/portal-backend.svg)](https://hub.docker.com/r/hbpmip/portal-backend/tags "hbpmip/portal-backend image tags") | [![ImageLayers](https://images.microbadger.com/badges/image/hbpmip/portal-backend.svg)](https://microbadger.com/#/images/hbpmip/portal-backend "hbpmip/portal-backend on microbadger") |
 | [![DockerHub](https://img.shields.io/badge/docker-hbpmip%2Fportal--frontend-008bb8.svg)](https://hub.docker.com/r/hbpmip/portal-frontend/) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-AGPL--3.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0.html) |   | [![ImageVersion](https://images.microbadger.com/badges/version/hbpmip/portal-frontend.svg)](https://hub.docker.com/r/hbpmip/portal-frontend/tags "hbpmip/portal-frontend image tags") | [![ImageLayers](https://images.microbadger.com/badges/image/hbpmip/portal-frontend.svg)](https://microbadger.com/#/images/hbpmip/portal-frontend "hbpmip/portal-frontend on microbadger") |
+| [![DockerHub](https://img.shields.io/badge/docker-sambuc%2Fhbp--raw--engine-008bb8.svg)](https://hub.docker.com/r/sambuc/hbp-raw-engine/) | [![EPFL](https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg)](http://dias.epfl.ch/) | |   | [![ImageVersion](https://images.microbadger.com/badges/version/sambuc/hbp-raw-engine.svg)](https://hub.docker.com/r/sambuc/hbp-raw-engine/tags "sambuc/hbp-raw-engine image tags") | [![ImageLayers](https://images.microbadger.com/badges/image/sambuc/hbp-raw-engine.svg)](https://microbadger.com/#/images/sambuc/hbp-raw-engine "sambuc/hbp-raw-engine on microbadger") |
+| [![DockerHub](https://img.shields.io/badge/docker-sambuc%2Fhbp--raw--sniffer-008bb8.svg)](https://hub.docker.com/r/sambuc/hbp-raw-sniffer/) | [![EPFL](https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg)](http://dias.epfl.ch/) | |   | [![ImageVersion](https://images.microbadger.com/badges/version/sambuc/hbp-raw-sniffer.svg)](https://hub.docker.com/r/sambuc/hbp-raw-sniffer/tags "sambuc/hbp-raw-sniffer image tags") | [![ImageLayers](https://images.microbadger.com/badges/image/sambuc/hbp-raw-sniffer.svg)](https://microbadger.com/#/images/sambuc/hbp-raw-sniffer "sambuc/hbp-raw-sniffer on microbadger") |
+| [![DockerHub](https://img.shields.io/badge/docker-sambuc%2Fhbp--raw--admin-008bb8.svg)](https://hub.docker.com/r/sambuc/hbp-raw-admin/) | [![EPFL](https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg)](http://dias.epfl.ch/) | |   | [![ImageVersion](https://images.microbadger.com/badges/version/sambuc/hbp-raw-admin.svg)](https://hub.docker.com/r/sambuc/hbp-raw-admin/tags "sambuc/hbp-raw-admin image tags") | [![ImageLayers](https://images.microbadger.com/badges/image/sambuc/hbp-raw-admin.svg)](https://microbadger.com/#/images/sambuc/hbp-raw-admin "sambuc/hbp-raw-admin on microbadger") |
