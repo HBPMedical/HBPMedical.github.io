@@ -7,7 +7,7 @@ weight: 0
 
 # Code Versioning and Working Practice
 
-* The code of the MIP portal is versioned into a GitLab server (at http://hbps1.intranet.chuv:7000/ and split in several groups and projects).
+* The code of the MIP is versioned into Github.
 * Each project should contain at least a master branch and a stable branch.
 * The stable branch should contain only strongly tested code that can be used in a production environment.
 * The master branch should contain the latest working features that needs to be strongly tested before being merged to the stable branch.
