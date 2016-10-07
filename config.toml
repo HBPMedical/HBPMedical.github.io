@@ -55,9 +55,14 @@ googleAnalytics = "UA-80660232-2"
 	weight = 10
 
 [[menu.main]]
+	name   = "Development Process"
+	url    = "development-process/"
+	weight = 20
+
+[[menu.main]]
 	name   = "Software Catalog"
 	url    = "software-catalog/"
-	weight = 20
+	weight = 30
 
 [blackfriday]
 	smartypants	= true
