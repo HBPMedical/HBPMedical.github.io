@@ -199,6 +199,27 @@
 
 
 
+<a class="current" title="Development Process" href="https://hbpsp8repo.github.io/development-process/">
+	
+	Development Process
+</a>
+
+
+<ul id="scrollspy">
+</ul>
+
+
+  
+</li>
+
+
+
+<li>
+  
+    
+
+
+
 <a  title="Software Catalog" href="https://hbpsp8repo.github.io/software-catalog/">
 	
 	Software Catalog
@@ -256,7 +277,7 @@
 
 			
 
-<h1 id="code-versioning-and-working-practice">Code Versioning and Working Practice</h1>
+<h2 id="code-versioning-and-working-practice">Code Versioning and Working Practice</h2>
 
 <ul>
 <li>The code of the MIP is versioned into Github.</li>
@@ -269,20 +290,20 @@
 <li>AUTOMATION: The stable branch should never be updated manually. The CI system should look for changes in the master branch and automatically run some tests on it. If the automatic tests are successfully passed, the CI system will create a merge request from the master branch to the stable branch or automatically do the merge.</li>
 </ul>
 
-<h1 id="testing-unit-and-integration">Testing (Unit and Integration)</h1>
+<h2 id="testing-unit-and-integration">Testing (Unit and Integration)</h2>
 
 <ol>
 <li>Each component should include unit tests which should be executed each time will build it.</li>
 <li>Each built component (usually a Docker image) should also be tested with integration tests before being pushed on a repository (usually Docker Hub). These tests are needed by the CI system to decide whether a feature can be considered stable enough for the stable branch.</li>
 </ol>
 
-<h1 id="docker-images-versioning">Docker Images Versioning</h1>
+<h2 id="docker-images-versioning">Docker Images Versioning</h2>
 
 <p>As Docker is a key technology in our platform, each Docker component we build should be versioned using a &quot;Git commit hash&quot; and pushed on Docker Hub (at <a href="https://hub.docker.com/u/hbpmip/">https://hub.docker.com/u/hbpmip/</a>) or on our private Docker Registry server. In this way, we will always be able to retrieve the precise code (on GitLab) that was used to build an Docker image.</p>
 
 <p>We also will be able to rollback or commit a new version of a component in a very easy way.</p>
 
-<h1 id="binaries-versioning">Binaries Versioning</h1>
+<h2 id="binaries-versioning">Binaries Versioning</h2>
 
 <p>As a few components like libraries should be built for &quot;non-docker&quot; use. These will be versioned and pushed on Artifactory.</p>
 
