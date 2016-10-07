@@ -6,8 +6,48 @@
     <description>Recent content on HBP SP8 repository</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Wed, 28 Sep 2016 12:33:51 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 07 Oct 2016 18:23:51 +0200</lastBuildDate>
     <atom:link href="https://hbpsp8repo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Development process</title>
+      <link>https://hbpsp8repo.github.io/development-process/</link>
+      <pubDate>Fri, 07 Oct 2016 18:23:51 +0200</pubDate>
+      
+      <guid>https://hbpsp8repo.github.io/development-process/</guid>
+      <description>
+
+&lt;h1 id=&#34;code-versioning-and-working-practice&#34;&gt;Code Versioning and Working Practice&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The code of the MIP is versioned into Github.&lt;/li&gt;
+&lt;li&gt;Each project should contain at least a master branch and a stable branch.&lt;/li&gt;
+&lt;li&gt;The stable branch should contain only strongly tested code that can be used in a production environment.&lt;/li&gt;
+&lt;li&gt;The master branch should contain the latest working features that needs to be strongly tested before being merged to the stable branch.&lt;/li&gt;
+&lt;li&gt;Each developer should create new branches (usually from the master branch) to implement new features and/or to fix bugs.&lt;/li&gt;
+&lt;li&gt;No one should directly commit changes into the stable or master branch. Once feature/bug-fix branch is working the branch can be merged into the master one.&lt;/li&gt;
+&lt;li&gt;For big changes, a merge request should be created and assigned to another developer.&lt;/li&gt;
+&lt;li&gt;AUTOMATION: The stable branch should never be updated manually. The CI system should look for changes in the master branch and automatically run some tests on it. If the automatic tests are successfully passed, the CI system will create a merge request from the master branch to the stable branch or automatically do the merge.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;testing-unit-and-integration&#34;&gt;Testing (Unit and Integration)&lt;/h1&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Each component should include unit tests which should be executed each time will build it.&lt;/li&gt;
+&lt;li&gt;Each built component (usually a Docker image) should also be tested with integration tests before being pushed on a repository (usually Docker Hub). These tests are needed by the CI system to decide whether a feature can be considered stable enough for the stable branch.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&#34;docker-images-versioning&#34;&gt;Docker Images Versioning&lt;/h1&gt;
+
+&lt;p&gt;As Docker is a key technology in our platform, each Docker component we build should be versioned using a &amp;quot;Git commit hash&amp;quot; and pushed on Docker Hub (at &lt;a href=&#34;https://hub.docker.com/u/hbpmip/&#34;&gt;https://hub.docker.com/u/hbpmip/&lt;/a&gt;) or on our private Docker Registry server. In this way, we will always be able to retrieve the precise code (on GitLab) that was used to build an Docker image.&lt;/p&gt;
+
+&lt;p&gt;We also will be able to rollback or commit a new version of a component in a very easy way.&lt;/p&gt;
+
+&lt;h1 id=&#34;binaries-versioning&#34;&gt;Binaries Versioning&lt;/h1&gt;
+
+&lt;p&gt;As a few components like libraries should be built for &amp;quot;non-docker&amp;quot; use. These will be versioned and pushed on Artifactory.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>HBP SP8 repository</title>
@@ -64,7 +104,7 @@
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/mip-microservices-infrastructure&#34;&gt;mip-microservices-infrastructure&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/mip-microservices-infrastructure/blob/master/LICENSE.md&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/mip-microservices-infrastructure/blob/master/LICENSE.md&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://trello.com/b/h66fm9Ad/dev-research-infrastructure&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/trello-infrastructure-blue.svg&#34; alt=&#34;Trello&#34; /&gt;&lt;/a&gt; &lt;br/&gt; &lt;a href=&#34;https://waffle.io/LREN-CHUV/mip-microservices-infrastructure&#34;&gt;&lt;img src=&#34;https://badge.waffle.io/LREN-CHUV/mip-microservices-infrastructure.png?label=ready&amp;amp;title=stories%20ready&#34; alt=&#34;Stories in Ready&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://circleci.com/gh/LREN-CHUV/mip-microservices-infrastructure/tree/master&#34;&gt;&lt;img src=&#34;https://circleci.com/gh/LREN-CHUV/mip-microservices-infrastructure/tree/master.svg?style=svg&#34; alt=&#34;CircleCI&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -72,7 +112,7 @@
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/dev-setup&#34;&gt;dev-setup&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/dev-setup/blob/master/LICENSE.md&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/dev-setup/blob/master/LICENSE.md&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://trello.com/b/4lsExdnC/dev-development-tools&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/trello-development--tools-blue.svg&#34; alt=&#34;Trello&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -144,7 +184,7 @@
 &lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.gnu.org/licenses/agpl-3.0.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-AGPL--3.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://circleci.com/gh/LREN-CHUV/portal-backend/tree/master&#34;&gt;&lt;img src=&#34;https://circleci.com/gh/LREN-CHUV/portal-backend/tree/master.svg?style=svg&#34; alt=&#34;CircleCI&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://circleci.com/gh/LREN-CHUV/portal-backend/tree/master&#34;&gt;&lt;img src=&#34;https://circleci.com/gh/LREN-CHUV/portal-backend/tree/master.svg?style=svg&#34; alt=&#34;CircleCI&#34; /&gt;&lt;/a&gt; &lt;br/&gt; &lt;a href=&#34;https://www.codacy.com/app/mirco-nasuti/portal-backend?utm_source=github.com&amp;amp;amp;utm_medium=referral&amp;amp;amp;utm_content=LREN-CHUV/portal-backend&amp;amp;amp;utm_campaign=Badge_Grade&#34;&gt;&lt;img src=&#34;https://api.codacy.com/project/badge/Grade/087c83d0601a46c7a4dd91f2e5935a5a&#34; alt=&#34;Codacy Badge&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -218,7 +258,7 @@
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/woken&#34;&gt;woken&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/woken/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/woken/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -226,7 +266,7 @@
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/base-docker-images&#34;&gt;base-docker-images&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/mip-microservices-infrastructure/blob/master/LICENSE.md&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -234,7 +274,7 @@
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/functions-repository&#34;&gt;functions-repository&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/mip-microservices-infrastructure/blob/master/LICENSE.md&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -264,7 +304,7 @@
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/meta-extract&#34;&gt;meta-extract&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/meta-extract/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/meta-extract/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -302,7 +342,7 @@
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/hbpjdbcconnect&#34;&gt;hbpjdbcconnect&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/mip-microservices-infrastructure/blob/master/LICENSE.md&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -310,7 +350,7 @@
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/hbplregress&#34;&gt;hbplregress&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/mip-microservices-infrastructure/blob/master/LICENSE.md&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -318,7 +358,7 @@
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/hbpsummarystats&#34;&gt;hbpsummarystats&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/mip-microservices-infrastructure/blob/master/LICENSE.md&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -326,7 +366,7 @@
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/CCC&#34;&gt;CCC&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://ictaf.tau.ac.il/index.asp?lang=eng&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/TAU-ICTAF-AD2C32.svg&#34; alt=&#34;TAU&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/CCC/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-GPL--3.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -342,7 +382,7 @@
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/bhtsne&#34;&gt;bhtsne&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://kt.ijs.si/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/JSI-KT-CCDDEE.svg&#34; alt=&#34;JSI&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/btsne/blob/master/LICENSE.txt&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-BSD-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -350,7 +390,7 @@
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/Rtsne&#34;&gt;Rtsne&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://kt.ijs.si/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/JSI-KT-CCDDEE.svg&#34; alt=&#34;JSI&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/Rtsne/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-BSD--3--clause-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -389,14 +429,6 @@
 &lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/MIPMapRew&#34;&gt;MIPMapRew&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://www.aueb.gr/index_en.php&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/aueb-wim-9D5459.svg&#34; alt=&#34;AUEB&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/raw&#34;&gt;raw&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://dias.epfl.ch/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg&#34; alt=&#34;EPFL&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/raw/blob/mip/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -474,7 +506,7 @@
 &lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/hbpmip/portal-backend/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/docker-hbpmip%2Fportal--backend-008bb8.svg&#34; alt=&#34;DockerHub&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.gnu.org/licenses/agpl-3.0.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-AGPL--3.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://circleci.com/gh/LREN-CHUV/portal-backend/tree/master&#34;&gt;&lt;img src=&#34;https://circleci.com/gh/LREN-CHUV/portal-backend/tree/master.svg?style=svg&#34; alt=&#34;CircleCI&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/hbpmip/portal-backend/tags&#34; title=&#34;hbpmip/portal-backend image tags&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/version/hbpmip/portal-backend.svg&#34; alt=&#34;ImageVersion&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://microbadger.com/#/images/hbpmip/portal-backend&#34; title=&#34;hbpmip/portal-backend on microbadger&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/image/hbpmip/portal-backend.svg&#34; alt=&#34;ImageLayers&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
