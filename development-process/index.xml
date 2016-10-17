@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Development-processes on HBP SP8 repository</title>
-    <link>https://hbpsp8repo.github.io/development-process/</link>
-    <description>Recent content in Development-processes on HBP SP8 repository</description>
+    <title>Development-process-rsses on HBP SP8 repository</title>
+    <link>https://hbpsp8repo.github.io/development-process/index.xml</link>
+    <description>Recent content in Development-process-rsses on HBP SP8 repository</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
+    <copyright>Released under the MIT license</copyright>
     <lastBuildDate>Fri, 07 Oct 2016 18:23:51 +0200</lastBuildDate>
     <atom:link href="https://hbpsp8repo.github.io/development-process/index.xml" rel="self" type="application/rss+xml" />
     
