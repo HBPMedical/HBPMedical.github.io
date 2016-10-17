@@ -1,6 +1,7 @@
 ---
-date: 2016-09-28T12:26:34+02:00
+date: 2016-10-37T18:23:51+02:00
 title: Software Catalog
+weight: 30
 ---
 
 This catalog attempts to collect all open-source software produced for the Medical Informatics Platform.

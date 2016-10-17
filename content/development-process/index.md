@@ -1,6 +1,7 @@
 ---
 date: 2016-10-07T18:23:51+02:00
 title: Development process
+weight: 20
 ---
 
 ## Code Versioning and Working Practice
