@@ -1,8 +1,6 @@
 ---
 date: 2016-10-07T18:23:51+02:00
 title: Development process
-type: index
-weight: 0
 ---
 
 ## Code Versioning and Working Practice
