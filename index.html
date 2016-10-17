@@ -277,41 +277,6 @@
 	<article class="article">
 		<div class="wrapper">
 			
-				<h1>Development process </h1>
-
-				
-
-<h2 id="code-versioning-and-working-practice">Code Versioning and Working Practice</h2>
-
-<ul>
-<li>The code of the MIP is versioned into Github.</li>
-<li>Each project should contain at least a master branch and a stable branch.</li>
-<li>The stable branch should contain only strongly tested code that can be used in a production environment.</li>
-<li>The master branch should contain the latest working features that needs to be strongly tested before being merged to the stable branch.</li>
-<li>Each developer should create new branches (usually from the master branch) to implement new features and/or to fix bugs.</li>
-<li>No one should directly commit changes into the stable or master branch. Once feature/bug-fix branch is working the branch can be merged into the master one.</li>
-<li>For big changes, a merge request should be created and assigned to another developer.</li>
-<li>AUTOMATION: The stable branch should never be updated manually. The CI system should look for changes in the master branch and automatically run some tests on it. If the automatic tests are successfully passed, the CI system will create a merge request from the master branch to the stable branch or automatically do the merge.</li>
-</ul>
-
-<h2 id="testing-unit-and-integration">Testing (Unit and Integration)</h2>
-
-<ol>
-<li>Each component should include unit tests which should be executed each time will build it.</li>
-<li>Each built component (usually a Docker image) should also be tested with integration tests before being pushed on a repository (usually Docker Hub). These tests are needed by the CI system to decide whether a feature can be considered stable enough for the stable branch.</li>
-</ol>
-
-<h2 id="docker-images-versioning">Docker Images Versioning</h2>
-
-<p>As Docker is a key technology in our platform, each Docker component we build should be versioned using a &quot;Git commit hash&quot; and pushed on Docker Hub (at <a href="https://hub.docker.com/u/hbpmip/">https://hub.docker.com/u/hbpmip/</a>) or on our private Docker Registry server. In this way, we will always be able to retrieve the precise code (on GitLab) that was used to build an Docker image.</p>
-
-<p>We also will be able to rollback or commit a new version of a component in a very easy way.</p>
-
-<h2 id="binaries-versioning">Binaries Versioning</h2>
-
-<p>As a few components like libraries should be built for &quot;non-docker&quot; use. These will be versioned and pushed on Artifactory.</p>
-
-			
 				<h1>HBP SP8 repository </h1>
 
 				
