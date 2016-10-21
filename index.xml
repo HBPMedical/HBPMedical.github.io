@@ -30,6 +30,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://collab.humanbrainproject.eu/#/collab/50/nav/242&#34;&gt;MIP on collaboratory&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://mip.humanbrainproject.eu&#34;&gt;Direct access to MIP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hbps1.chuv.ch&#34;&gt;Next version on staging environment&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;You may need to obtain a HBP Identity Account to login in the platform. More information &lt;a href=&#34;https://www.humanbrainproject.eu/platform-access&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -396,7 +397,7 @@
 
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/bhtsne&#34;&gt;bhtsne&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://kt.ijs.si/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/JSI-KT-CCDDEE.svg&#34; alt=&#34;JSI&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.lumc.nl/org/radiologie/research/87377/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/LUMC-LKEB-99CBE7.svg&#34; alt=&#34;LUMC&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/btsne/blob/master/LICENSE.txt&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-BSD-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
@@ -404,7 +405,7 @@
 
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/Rtsne&#34;&gt;Rtsne&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://kt.ijs.si/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/JSI-KT-CCDDEE.svg&#34; alt=&#34;JSI&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.lumc.nl/org/radiologie/research/87377/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/LUMC-LKEB-99CBE7.svg&#34; alt=&#34;LUMC&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/Rtsne/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-BSD--3--clause-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
