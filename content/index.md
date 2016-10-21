@@ -16,5 +16,6 @@ You can access the platform via one of those links:
 
 * [MIP on collaboratory](https://collab.humanbrainproject.eu/#/collab/50/nav/242)
 * [Direct access to MIP](https://mip.humanbrainproject.eu)
+* [Next version on staging environment](http://hbps1.chuv.ch)
 
 You may need to obtain a HBP Identity Account to login in the platform. More information [here](https://www.humanbrainproject.eu/platform-access).
