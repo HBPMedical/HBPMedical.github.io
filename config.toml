@@ -64,6 +64,11 @@ googleAnalytics = "UA-80660232-2"
 	url    = "software-catalog/"
 	weight = 30
 
+[[menu.main]]
+	name   = "Technology stack"
+	url    = "software-catalog/stack/"
+	weight = 31
+
 [blackfriday]
 	smartypants	= true
 	fractions = true
