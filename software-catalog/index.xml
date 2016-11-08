@@ -48,7 +48,7 @@
 &lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/dev-setup/blob/master/LICENSE.md&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://trello.com/b/4lsExdnC/dev-development-tools&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/trello-development--tools-blue.svg&#34; alt=&#34;Trello&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://circleci.com/gh/LREN-CHUV/dev-setup&#34;&gt;&lt;img src=&#34;https://circleci.com/gh/LREN-CHUV/dev-setup.svg?style=svg&#34; alt=&#34;CircleCI&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
