@@ -94,7 +94,7 @@
     <item>
       <title>Software Catalog</title>
       <link>https://hbpsp8repo.github.io/software-catalog/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 30 Oct 2016 18:23:51 +0200</pubDate>
       
       <guid>https://hbpsp8repo.github.io/software-catalog/</guid>
       <description>
@@ -572,6 +572,17 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Technology stack</title>
+      <link>https://hbpsp8repo.github.io/software-catalog/stack/</link>
+      <pubDate>Tue, 08 Nov 2016 18:14:51 +0200</pubDate>
+      
+      <guid>https://hbpsp8repo.github.io/software-catalog/stack/</guid>
+      <description>&lt;p&gt;&lt;a frameborder=&#34;0&#34; data-theme=&#34;light&#34; data-layers=&#34;1,2,3,4&#34; data-stack-embed=&#34;true&#34; href=&#34;https://embed.stackshare.io/stacks/embed/3173d1e0d8e7c0&#34;/&gt;&lt;/a&gt;
+&lt;script async src=&#34;https://cdn1.stackshare.io/javascripts/client-code.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 </description>
     </item>
     
