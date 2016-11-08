@@ -62,8 +62,9 @@ It should contain all publicly accessible software for the phase SGA1 month 6.
 | [MIPMap](https://github.com/HBPSP8Repo/MIPMap) | [![AUEB](https://img.shields.io/badge/aueb-wim-9D5459.svg)](http://www.aueb.gr/index_en.php) |   |   |   |
 | [WebMIPMap](https://github.com/HBPSP8Repo/WebMIPMap) | [![AUEB](https://img.shields.io/badge/aueb-wim-9D5459.svg)](http://www.aueb.gr/index_en.php) |   |   |   |
 | [MIPMapRew](https://github.com/HBPSP8Repo/MIPMapRew) | [![AUEB](https://img.shields.io/badge/aueb-wim-9D5459.svg)](http://www.aueb.gr/index_en.php) |   |   |   |
-| [raw](https://github.com/HBPSP8Repo/raw) | [![EPFL](https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg)](http://dias.epfl.ch/) | [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/HBPSP8Repo/raw/blob/mip/LICENSE) |   |   |
+| [raw](https://github.com/HBPSP8Repo/raw) | [![EPFL](https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg)](http://dias.epfl.ch/) | [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/HBPSP8Repo/raw/blob/master/LICENSE) |   |   |
 | [raw-frontend](https://github.com/HBPSP8Repo/raw-frontend) | [![EPFL](https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg)](http://dias.epfl.ch/) |   |   |   |
+| [JDBCValidator](https://github.com/HBPSP8Repo/JDBCValidator) | [![EPFL](https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg)](http://dias.epfl.ch/) | [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/HBPSP8Repo/JDBCValidator/blob/master/LICENSE.md) |   |   |
 
 ## Docker images
 
