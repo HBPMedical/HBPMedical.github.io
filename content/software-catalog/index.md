@@ -17,6 +17,7 @@ It should contain all publicly accessible software for the phase SGA1 month 6.
 | [RAW-deploy](https://github.com/HBPSP8Repo/RAW-deploy) | [![EPFL](https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg)](http://dias.epfl.ch/) |   |   |
 | [ansible-airflow](https://github.com/HBPSP8Repo/ansible-airflow) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/HBPSP8Repo/ansible-airflow/blob/master/LICENSE) |   |
 | [docker-flyway](https://github.com/HBPSP8Repo/docker-flyway) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](https://github.com/LREN-CHUV/docker-flyway/blob/master/LICENSE) |   |   |
+| [docker-hbp-mipmap](https://github.com/HBPSP8Repo/docker-hbp-mipmap) | [![EPFL](https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg)](http://dias.epfl.ch/) |   |   |   |
 | [xnat-docker](https://github.com/HBPSP8Repo/xnat-docker) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](https://github.com/LREN-CHUV/xnat-docker/blob/master/LICENSE) |   |
 | [labkey-docker](https://github.com/HBPSP8Repo/labkey-docker) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](https://github.com/LREN-CHUV/labkey-docker/blob/master/LICENSE) |   |
 
@@ -43,7 +44,7 @@ It should contain all publicly accessible software for the phase SGA1 month 6.
 
 | Data Factory | Organisation | License | Management | Continuous integration |
 |--------------|--------------|---------|------------|------------------------|
-| [meta-extract](https://github.com/HBPSP8Repo/meta-extract) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](https://github.com/HBPSP8Repo/meta-extract/blob/master/LICENSE) |   |   |
+| [mri-meta-extract](https://github.com/HBPSP8Repo/mri-meta-extract) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](https://github.com/HBPSP8Repo/mri-meta-extract/blob/master/LICENSE) |   |   |
 
 | Algorithm Library | Organisation | License | Management | Continuous integration |
 |-------------------|--------------|---------|------------|------------------------|
