@@ -77,9 +77,17 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/docker-hbp-mipmap&#34;&gt;docker-hbp-mipmap&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/MIPMap-docker&#34;&gt;MIPMap-docker&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://dias.epfl.ch/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg&#34; alt=&#34;EPFL&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/PostgresRAW-docker&#34;&gt;PostgresRAW-docker&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://dias.epfl.ch/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg&#34; alt=&#34;EPFL&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -380,6 +388,14 @@
 &lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/MIPMapRew&#34;&gt;MIPMapRew&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://www.aueb.gr/index_en.php&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/aueb-wim-9D5459.svg&#34; alt=&#34;AUEB&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/PostgresRAW&#34;&gt;PostgresRAW&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://dias.epfl.ch/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg&#34; alt=&#34;EPFL&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/PostgresRAW/blob/master/PostgresRaw/COPYRIGHT_DIAS&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
