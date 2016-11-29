@@ -64,6 +64,8 @@ It should contain all publicly accessible software for the phase SGA1 month 6.
 | Data Factory | Organisation | License | Planning | Continuous integration |
 |--------------|--------------|---------|------------|------------------------|
 | [mri-meta-extract](https://github.com/HBPSP8Repo/mri-meta-extract) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](https://github.com/HBPSP8Repo/mri-meta-extract/blob/master/LICENSE) |   |   |
+| [airflow-imaging-plugins](https://github.com/HBPSP8Repo/airflow-imaging-plugins) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](https://github.com/HBPSP8Repo/airflow-imaging-plugins/blob/master/LICENSE) |   |   |
+| [airflow-mri-preprocessing-dags](https://github.com/HBPSP8Repo/airflow-mri-preprocessing-dags) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](https://github.com/HBPSP8Repo/airflow-mri-preprocessing-dags/blob/master/LICENSE) |   |   |
 
 ### Algorithm Library
 
