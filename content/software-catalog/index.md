@@ -23,6 +23,7 @@ It should contain all publicly accessible software for the phase SGA1 month 6.
 | [xnat-docker](https://github.com/HBPSP8Repo/xnat-docker) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](https://github.com/LREN-CHUV/xnat-docker/blob/master/LICENSE) |   |
 | [labkey-docker](https://github.com/HBPSP8Repo/labkey-docker) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](https://github.com/LREN-CHUV/labkey-docker/blob/master/LICENSE) |   |
 | [MIPMap-docker](https://github.com/HBPSP8Repo/MIPMap-docker) | [![EPFL](https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg)](http://dias.epfl.ch/) | ![License](https://img.shields.io/badge/license-MIT-blue.svg) |   |   |
+| [WebMIPMap-docker](https://github.com/HBPSP8Repo/WebMIPMap-docker) | [![EPFL](https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg)](http://dias.epfl.ch/) | ![License](https://img.shields.io/badge/license-MIT-blue.svg) |   |   |
 | [PostgresRAW-docker](https://github.com/HBPSP8Repo/PostgresRAW-docker) | [![EPFL](https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg)](http://dias.epfl.ch/) | ![License](https://img.shields.io/badge/license-MIT-blue.svg) |   |   |
 | [RAW-deploy](https://github.com/HBPSP8Repo/RAW-deploy) | [![EPFL](https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg)](http://dias.epfl.ch/) |   |   |
 
