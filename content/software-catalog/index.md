@@ -96,6 +96,8 @@ It should contain all publicly accessible software for the phase SGA1 month 6.
 
 ## Docker images
 
+The Organisation and License column below refer to the docker image packaging. For the software contained in the images, please refer to the tables above.
+
 | Docker image																	| Organisation												| License																	| Build status																			| Image version																						| Image layers |
 |---------------------------------------------|--------------|---------|--------------|---------------|--------------|
 | [![DockerHub](https://img.shields.io/badge/docker-lren%2Fflyway-008bb8.svg)](https://hub.docker.com/r/lren/flyway/)				| [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html)	| [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](https://github.com/LREN-CHUV/docker-flyway/blob/master/LICENSE)	| [![CircleCI](https://circleci.com/gh/LREN-CHUV/docker-flyway/tree/master.svg?style=svg)](https://circleci.com/gh/LREN-CHUV/docker-flyway/tree/master)		| [![ImageVersion](https://images.microbadger.com/badges/version/lren/flyway.svg)](https://hub.docker.com/r/lren/flyway/tags "lren/flyway image tags")					| [![ImageLayers](https://images.microbadger.com/badges/image/lren/flyway.svg)](https://microbadger.com/#/images/lren/flyway "lren/flyway on microbadger") |
