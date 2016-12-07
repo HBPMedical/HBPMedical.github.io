@@ -194,9 +194,17 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/PostgresRAW-UI-docker&#34;&gt;PostgresRAW-UI-docker&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://dias.epfl.ch/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg&#34; alt=&#34;EPFL&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/RAW-deploy&#34;&gt;RAW-deploy&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://dias.epfl.ch/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg&#34; alt=&#34;EPFL&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -506,7 +514,7 @@
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://collab.humanbrainproject.eu/#/collab/19/nav/2108?state=software,MIPMap&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/hbp-catalog-F49542.svg&#34; alt=&#34;Catalog&#34; /&gt;&lt;/a&gt; &lt;br/&gt; &lt;a href=&#34;https://github.com/HBPSP8Repo/MIPMap&#34;&gt;MIPMap&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://www.aueb.gr/index_en.php&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/aueb-wim-9D5459.svg&#34; alt=&#34;AUEB&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/MIPMap/blob/master/gpl-3.0.txt&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-GPL--3.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -514,7 +522,7 @@
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://collab.humanbrainproject.eu/#/collab/19/nav/2108?state=software,WebMIPMap&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/hbp-catalog-F49542.svg&#34; alt=&#34;Catalog&#34; /&gt;&lt;/a&gt; &lt;br/&gt; &lt;a href=&#34;https://github.com/HBPSP8Repo/WebMIPMap&#34;&gt;WebMIPMap&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://www.aueb.gr/index_en.php&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/aueb-wim-9D5459.svg&#34; alt=&#34;AUEB&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/WebMIPMap/blob/master/gpl-3.0.txt&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-GPL--3.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -536,17 +544,17 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/raw&#34;&gt;raw&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/PostgresRAW-UI&#34;&gt;PostgresRAW-UI&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://dias.epfl.ch/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg&#34; alt=&#34;EPFL&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/raw/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/PostgresRAW-UI/blob/master/sniff_server/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/raw-frontend&#34;&gt;raw-frontend&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/raw&#34;&gt;raw&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://dias.epfl.ch/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg&#34; alt=&#34;EPFL&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/raw/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -660,21 +668,12 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/sambuc/hbp-raw-sniffer/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/docker-sambuc%2Fhbp--raw--sniffer-008bb8.svg&#34; alt=&#34;DockerHub&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/hbpmip/postgresraw-ui/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/docker-hbpmip%2Fpostgresraw--ui-008bb8.svg&#34; alt=&#34;DockerHub&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://dias.epfl.ch/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg&#34; alt=&#34;EPFL&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/sambuc/hbp-raw-sniffer/tags&#34; title=&#34;sambuc/hbp-raw-sniffer image tags&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/version/sambuc/hbp-raw-sniffer.svg&#34; alt=&#34;ImageVersion&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://microbadger.com/#/images/sambuc/hbp-raw-sniffer&#34; title=&#34;sambuc/hbp-raw-sniffer on microbadger&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/image/sambuc/hbp-raw-sniffer.svg&#34; alt=&#34;ImageLayers&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/sambuc/hbp-raw-admin/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/docker-sambuc%2Fhbp--raw--admin-008bb8.svg&#34; alt=&#34;DockerHub&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://dias.epfl.ch/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg&#34; alt=&#34;EPFL&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/sambuc/hbp-raw-admin/tags&#34; title=&#34;sambuc/hbp-raw-admin image tags&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/version/sambuc/hbp-raw-admin.svg&#34; alt=&#34;ImageVersion&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://microbadger.com/#/images/sambuc/hbp-raw-admin&#34; title=&#34;sambuc/hbp-raw-admin on microbadger&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/image/sambuc/hbp-raw-admin.svg&#34; alt=&#34;ImageLayers&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/hbpmip/postgresraw-ui/tags&#34; title=&#34;hbpmip/postgresraw-ui image tags&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/version/hbpmip/postgresraw-ui.svg&#34; alt=&#34;ImageVersion&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://microbadger.com/#/images/hbpmip/postgresraw-ui&#34; title=&#34;hbpmip/postgresraw-ui on microbadger&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/image/hbpmip/postgresraw-ui.svg&#34; alt=&#34;ImageLayers&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
