@@ -1,9 +1,10 @@
 ---
-date: 2016-10-30T18:23:51+02:00
 title: Software Catalog
+date: '2016-10-30T18:23:51+02:00'
 weight: 30
----
+draft: false
 
+---
 This catalog attempts to collect all open-source software produced for the Medical Informatics Platform.
 
 It should contain all publicly accessible software for the phase SGA1 month 6.

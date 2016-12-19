@@ -1,10 +1,11 @@
 ---
-date: 2016-09-28T12:33:51+02:00
 title: HBP SP8 repository
+date: '2016-09-28T12:33:51+02:00'
 type: index
 weight: 0
----
+draft: false
 
+---
 [![Twitter](https://img.shields.io/twitter/follow/HBPmedical%20platform.svg?style=social)](https://twitter.com/intent/follow?screen_name=HBPmedical) [![Slack](https://img.shields.io/badge/slack-dev channel-e01563.svg)](https://hbpsp8.slack.com/archives/dev)
 [![Trello](https://img.shields.io/badge/trello-board-blue.svg)](https://trello.com/hbpsp8)
 

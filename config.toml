@@ -1,76 +1,59 @@
 baseurl = "https://hbpsp8repo.github.io/"
-languageCode = "en-uk"
-title = "HBP SP8 repository"
-theme = "hugo-material-docs"
-metadataformat = "yaml"
 canonifyurls = true
 googleAnalytics = "UA-80660232-2"
-
-[params]
-	# General information
-	author = "HBP SP8 team"
-	description = "SP8 subproject (Medical Informatics Platform) for the Human Brain Project."
-	copyright = "Released under the MIT license"
-
-	# Repository
-	provider = ""
-	repo_url = "https://github.com/HBPSP8Repo/HBPSP8Repo.github.io"
-
-	version = ""
-	logo = "images/hbp.png"
-	favicon = ""
-
-	permalink = "#"
-
-	# Custom assets
-	custom_css = []
-	custom_js  = []
-
-	# Syntax highlighting theme
-	highlight_css  = ""
-
-	[params.palette]
-    	primary = "red"
-    	accent  = "teal"
-
-    [params.font]
-    	text = "Ubuntu"
-    	code = "Ubuntu Mono"
-
-
-[social]
-	twitter = "HBPmedical"
-	github  = "HBPSP8Repo"
-	email   = "hbp_medicalinformatics@chuv.ch"
-
-
-[[menu.main]]
-	name   = "HBP SP8"
-	url    = "/"
-	weight = 0
-
-[[menu.main]]
-	name   = "Documentation"
-	url    = "documentation/"
-	weight = 10
-
-[[menu.main]]
-	name   = "Development Process"
-	url    = "development-process/"
-	weight = 20
-
-[[menu.main]]
-	name   = "Software Catalog"
-	url    = "software-catalog/"
-	weight = 30
-
-[[menu.main]]
-	name   = "Technology stack"
-	url    = "software-catalog/stack/"
-	weight = 31
-
+languageCode = "en-uk"
+metadataformat = "yaml"
+theme = "hugo-material-docs"
+title = "HBP SP8 repository"
 [blackfriday]
-	smartypants	= true
-	fractions = true
-	smartDashes = true
-	plainIDAnchors = true
+fractions = true
+plainIDAnchors = true
+smartDashes = true
+smartypants = true
+[[menu.main]]
+name = "Release notes"
+url = "/release-notes"
+weight = 32
+[[menu.main]]
+name = "Technology stack"
+url = "software-catalog/stack/"
+weight = 31
+[[menu.main]]
+name = "Software Catalog"
+url = "software-catalog/"
+weight = 30
+[[menu.main]]
+name = "Development Process"
+url = "development-process/"
+weight = 20
+[[menu.main]]
+name = "Documentation"
+url = "documentation/"
+weight = 10
+[[menu.main]]
+name = "HBP SP8"
+url = "/"
+weight = 0
+[params]
+author = "HBP SP8 team"
+copyright = "Released under the MIT license"
+custom_css = []
+custom_js = []
+description = "SP8 subproject (Medical Informatics Platform) for the Human Brain Project."
+favicon = ""
+highlight_css = ""
+logo = "images/hbp.png"
+permalink = "#"
+provider = ""
+repo_url = "https://github.com/HBPSP8Repo/HBPSP8Repo.github.io"
+version = ""
+[params.font]
+code = "Ubuntu Mono"
+text = "Ubuntu"
+[params.palette]
+accent = "teal"
+primary = "red"
+[social]
+email = "hbp_medicalinformatics@chuv.ch"
+github = "HBPSP8Repo"
+twitter = "HBPmedical"

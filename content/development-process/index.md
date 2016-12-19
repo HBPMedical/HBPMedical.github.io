@@ -1,9 +1,10 @@
 ---
-date: 2016-10-07T18:23:51+02:00
 title: Development process
+date: '2016-10-07T18:23:51+02:00'
 weight: 20
----
+draft: false
 
+---
 ## Code Versioning and Working Practice
 
 * The code of the MIP is versioned into Github.
