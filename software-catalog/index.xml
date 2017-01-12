@@ -159,7 +159,7 @@
 &lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.gnu.org/licenses/agpl-3.0.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-AGPL--3.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://circleci.com/gh/LREN-CHUV/portal-backend/tree/master&#34;&gt;&lt;img src=&#34;https://circleci.com/gh/LREN-CHUV/portal-backend/tree/master.svg?style=svg&#34; alt=&#34;CircleCI&#34; /&gt;&lt;/a&gt; &lt;br/&gt; &lt;a href=&#34;https://www.codacy.com/app/mirco-nasuti/portal-backend?utm_source=github.com&amp;amp;amp;utm_medium=referral&amp;amp;amp;utm_content=LREN-CHUV/portal-backend&amp;amp;amp;utm_campaign=Badge_Grade&#34;&gt;&lt;img src=&#34;https://api.codacy.com/project/badge/Grade/087c83d0601a46c7a4dd91f2e5935a5a&#34; alt=&#34;Codacy Badge&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://circleci.com/gh/LREN-CHUV/portal-backend/tree/master&#34;&gt;&lt;img src=&#34;https://circleci.com/gh/LREN-CHUV/portal-backend/tree/master.svg?style=svg&#34; alt=&#34;CircleCI&#34; /&gt;&lt;/a&gt; &lt;a href=&#34;https://www.codacy.com/app/mirco-nasuti/portal-backend?utm_source=github.com&amp;amp;amp;utm_medium=referral&amp;amp;amp;utm_content=LREN-CHUV/portal-backend&amp;amp;amp;utm_campaign=Badge_Grade&#34;&gt;&lt;img src=&#34;https://api.codacy.com/project/badge/Grade/087c83d0601a46c7a4dd91f2e5935a5a&#34; alt=&#34;Codacy Badge&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -299,7 +299,15 @@
 &lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/mri-meta-extract/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.codacy.com/app/mirco-nasuti/mri-meta-extract?utm_source=github.com&amp;amp;amp;utm_medium=referral&amp;amp;amp;utm_content=LREN-CHUV/mri-meta-extract&amp;amp;amp;utm_campaign=Badge_Grade&#34;&gt;&lt;img src=&#34;https://api.codacy.com/project/badge/Grade/4547fb5d1e464e4087640e046893576a&#34; alt=&#34;Codacy Badge&#34; /&gt;&lt;/a&gt; &lt;a href=&#34;https://circleci.com/gh/LREN-CHUV/mri-meta-extract&#34;&gt;&lt;img src=&#34;https://circleci.com/gh/LREN-CHUV/mri-meta-extract.svg?style=svg&#34; alt=&#34;CircleCI&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/mri-meta-db&#34;&gt;mri-meta-db&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/mri-meta-db/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.codacy.com/app/mirco-nasuti/mri-meta-db?utm_source=github.com&amp;amp;amp;utm_medium=referral&amp;amp;amp;utm_content=LREN-CHUV/mri-meta-db&amp;amp;amp;utm_campaign=Badge_Grade&#34;&gt;&lt;img src=&#34;https://api.codacy.com/project/badge/Grade/9adcf4cbd730472386d0e71ab27b9b6b&#34; alt=&#34;Codacy Badge&#34; /&gt;&lt;/a&gt; &lt;a href=&#34;https://circleci.com/gh/LREN-CHUV/mri-meta-db&#34;&gt;&lt;img src=&#34;https://circleci.com/gh/LREN-CHUV/mri-meta-db.svg?style=svg&#34; alt=&#34;CircleCI&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
