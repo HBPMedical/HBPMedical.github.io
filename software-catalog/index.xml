@@ -303,6 +303,14 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/mri-meta-db&#34;&gt;mri-meta-db&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/mri-meta-db/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.codacy.com/app/mirco-nasuti/mri-meta-db?utm_source=github.com&amp;amp;amp;utm_medium=referral&amp;amp;amp;utm_content=LREN-CHUV/mri-meta-db&amp;amp;amp;utm_campaign=Badge_Grade&#34;&gt;&lt;img src=&#34;https://api.codacy.com/project/badge/Grade/9adcf4cbd730472386d0e71ab27b9b6b&#34; alt=&#34;Codacy Badge&#34; /&gt;&lt;/a&gt; &lt;a href=&#34;https://circleci.com/gh/LREN-CHUV/mri-meta-db&#34;&gt;&lt;img src=&#34;https://circleci.com/gh/LREN-CHUV/mri-meta-db.svg?style=svg&#34; alt=&#34;CircleCI&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/mri-preprocessing-pipeline&#34;&gt;mri-preprocessing-pipeline&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/mri-preprocessing-pipeline/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-AGPL--3.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
