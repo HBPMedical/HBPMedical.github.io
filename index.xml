@@ -7,37 +7,8 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>Released under the MIT license</copyright>
-    <lastBuildDate>Wed, 28 Sep 2016 12:33:51 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 28 Sep 2016 12:34:51 +0200</lastBuildDate>
     <atom:link href="https://hbpsp8repo.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>HBP SP8 repository</title>
-      <link>https://hbpsp8repo.github.io/</link>
-      <pubDate>Wed, 28 Sep 2016 12:33:51 +0200</pubDate>
-      
-      <guid>https://hbpsp8repo.github.io/</guid>
-      <description>
-
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/intent/follow?screen_name=HBPmedical&#34;&gt;&lt;img src=&#34;https://img.shields.io/twitter/follow/HBPmedical%20platform.svg?style=social&#34; alt=&#34;Twitter&#34; /&gt;&lt;/a&gt; &lt;a href=&#34;https://hbpsp8.slack.com/archives/dev&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/slack-dev channel-e01563.svg&#34; alt=&#34;Slack&#34; /&gt;&lt;/a&gt;
-&lt;a href=&#34;https://trello.com/hbpsp8&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/trello-board-blue.svg&#34; alt=&#34;Trello&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;medical-informatics-platform-for-the-human-brain-project&#34;&gt;Medical Informatics Platform for the Human Brain Project&lt;/h2&gt;
-
-&lt;p&gt;Thousands of brain images and terabytes of invaluable associated medical data are produced every day at a gigantic pace around the world. The Medical Informatics Platform (MIP) aims to federate this information and provide the tools to the experts to effectively analyse it and advance more rapidly in understanding the neurological and psychiatric diseases. This will in turn allow identifying the biological changes associated and open real possibilities for early diagnosis and personalised medicine.&lt;/p&gt;
-
-&lt;p&gt;You can access the platform via one of those links:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://collab.humanbrainproject.eu/#/collab/50/nav/242&#34;&gt;MIP on collaboratory&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://mip.humanbrainproject.eu&#34;&gt;Direct access to MIP&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://hbps1.chuv.ch&#34;&gt;Next version on staging environment&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;You may need to obtain a HBP Identity Account to login in the platform. More information &lt;a href=&#34;https://www.humanbrainproject.eu/platform-access&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&#34;twitter-timeline&#34; href=&#34;https://twitter.com/HBPmedical&#34;&gt;Tweets by HBPmedical&lt;/a&gt; &lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Documentation</title>
@@ -386,11 +357,11 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/mri-meta-db&#34;&gt;mri-meta-db&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/data-catalog-db&#34;&gt;data-catalog-db&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/mri-meta-db/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/data-catalog-db/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.codacy.com/app/mirco-nasuti/mri-meta-db?utm_source=github.com&amp;amp;amp;utm_medium=referral&amp;amp;amp;utm_content=LREN-CHUV/mri-meta-db&amp;amp;amp;utm_campaign=Badge_Grade&#34;&gt;&lt;img src=&#34;https://api.codacy.com/project/badge/Grade/9adcf4cbd730472386d0e71ab27b9b6b&#34; alt=&#34;Codacy Badge&#34; /&gt;&lt;/a&gt; &lt;a href=&#34;https://circleci.com/gh/LREN-CHUV/mri-meta-db&#34;&gt;&lt;img src=&#34;https://circleci.com/gh/LREN-CHUV/mri-meta-db.svg?style=svg&#34; alt=&#34;CircleCI&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.codacy.com/app/mirco-nasuti/data-catalog-db?utm_source=github.com&amp;amp;amp;utm_medium=referral&amp;amp;amp;utm_content=LREN-CHUV/data-catalog-db&amp;amp;amp;utm_campaign=Badge_Grade&#34;&gt;&lt;img src=&#34;https://api.codacy.com/project/badge/Grade/9adcf4cbd730472386d0e71ab27b9b6b&#34; alt=&#34;Codacy Badge&#34; /&gt;&lt;/a&gt; &lt;a href=&#34;https://circleci.com/gh/LREN-CHUV/data-catalog-db&#34;&gt;&lt;img src=&#34;https://circleci.com/gh/LREN-CHUV/data-catalog-db.svg?style=svg&#34; alt=&#34;CircleCI&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -698,6 +669,35 @@
       <guid>https://hbpsp8repo.github.io/software-catalog/stack/</guid>
       <description>&lt;p&gt;&lt;a frameborder=&#34;0&#34; data-theme=&#34;light&#34; data-layers=&#34;1,2,3,4&#34; data-stack-embed=&#34;true&#34; href=&#34;https://embed.stackshare.io/stacks/embed/3173d1e0d8e7c0&#34;/&gt;&lt;/a&gt;
 &lt;script async src=&#34;https://cdn1.stackshare.io/javascripts/client-code.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HBP SP8 repository</title>
+      <link>https://hbpsp8repo.github.io/</link>
+      <pubDate>Wed, 28 Sep 2016 12:33:51 +0200</pubDate>
+      
+      <guid>https://hbpsp8repo.github.io/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/intent/follow?screen_name=HBPmedical&#34;&gt;&lt;img src=&#34;https://img.shields.io/twitter/follow/HBPmedical%20platform.svg?style=social&#34; alt=&#34;Twitter&#34; /&gt;&lt;/a&gt; &lt;a href=&#34;https://hbpsp8.slack.com/archives/dev&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/slack-dev channel-e01563.svg&#34; alt=&#34;Slack&#34; /&gt;&lt;/a&gt;
+&lt;a href=&#34;https://trello.com/hbpsp8&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/trello-board-blue.svg&#34; alt=&#34;Trello&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;medical-informatics-platform-for-the-human-brain-project&#34;&gt;Medical Informatics Platform for the Human Brain Project&lt;/h2&gt;
+
+&lt;p&gt;Thousands of brain images and terabytes of invaluable associated medical data are produced every day at a gigantic pace around the world. The Medical Informatics Platform (MIP) aims to federate this information and provide the tools to the experts to effectively analyse it and advance more rapidly in understanding the neurological and psychiatric diseases. This will in turn allow identifying the biological changes associated and open real possibilities for early diagnosis and personalised medicine.&lt;/p&gt;
+
+&lt;p&gt;You can access the platform via one of those links:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://collab.humanbrainproject.eu/#/collab/50/nav/242&#34;&gt;MIP on collaboratory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mip.humanbrainproject.eu&#34;&gt;Direct access to MIP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hbps1.chuv.ch&#34;&gt;Next version on staging environment&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You may need to obtain a HBP Identity Account to login in the platform. More information &lt;a href=&#34;https://www.humanbrainproject.eu/platform-access&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&#34;twitter-timeline&#34; href=&#34;https://twitter.com/HBPmedical&#34;&gt;Tweets by HBPmedical&lt;/a&gt; &lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 </description>
     </item>
     
