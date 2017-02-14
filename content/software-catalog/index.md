@@ -27,6 +27,7 @@ It should contain all publicly accessible software for the phase SGA1 month 6.
 | [PostgresRAW-docker](https://github.com/HBPSP8Repo/PostgresRAW-docker) | [![EPFL](https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg)](http://dias.epfl.ch/) | ![License](https://img.shields.io/badge/license-MIT-blue.svg) |   |   |
 | [PostgresRAW-UI-docker](https://github.com/HBPSP8Repo/PostgresRAW-UI-docker) | [![EPFL](https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg)](http://dias.epfl.ch/) | ![License](https://img.shields.io/badge/license-MIT-blue.svg) |   |   |
 | [RAW-deploy](https://github.com/HBPSP8Repo/RAW-deploy) | [![EPFL](https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg)](http://dias.epfl.ch/) | ![License](https://img.shields.io/badge/license-MIT-blue.svg) |   |
+| [ExaremeLocal-docker](https://github.com/HBPSP8Repo/ExaremeLocal-docker)  | [![UOA](https://img.shields.io/badge/UOA-madgik-BDCFD6.svg)](http://www.madgik.di.uoa.gr/)   | ![License](https://img.shields.io/badge/license-MIT-blue.svg)   |   |
 
 ### Web Portal, exploration and analytics, scientific applications
 
