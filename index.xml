@@ -181,6 +181,14 @@
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/ExaremeLocal-docker&#34;&gt;ExaremeLocal-docker&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.madgik.di.uoa.gr/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/UOA-madgik-BDCFD6.svg&#34; alt=&#34;UOA&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 
@@ -326,7 +334,7 @@
 &lt;td&gt;&lt;a href=&#34;http://www.madgik.di.uoa.gr/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/UOA-madgik-BDCFD6.svg&#34; alt=&#34;UOA&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/exareme/blob/mip/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://travis-ci.org/madgik/exareme.svg?branch=mip&#34; alt=&#34;Travis-CI&#34; /&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -365,19 +373,19 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/data-catalog-db&#34;&gt;data-catalog-db&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/data-catalog-setup&#34;&gt;data-catalog-setup&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/data-catalog-db/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/data-catalog-setup/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.codacy.com/app/mirco-nasuti/data-catalog-db?utm_source=github.com&amp;amp;amp;utm_medium=referral&amp;amp;amp;utm_content=LREN-CHUV/data-catalog-db&amp;amp;amp;utm_campaign=Badge_Grade&#34;&gt;&lt;img src=&#34;https://api.codacy.com/project/badge/Grade/9adcf4cbd730472386d0e71ab27b9b6b&#34; alt=&#34;Codacy Badge&#34; /&gt;&lt;/a&gt; &lt;a href=&#34;https://circleci.com/gh/LREN-CHUV/data-catalog-db&#34;&gt;&lt;img src=&#34;https://circleci.com/gh/LREN-CHUV/data-catalog-db.svg?style=svg&#34; alt=&#34;CircleCI&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.codacy.com/app/mirco-nasuti/data-catalog-setup?utm_source=github.com&amp;amp;amp;utm_medium=referral&amp;amp;amp;utm_content=LREN-CHUV/data-catalog-setup&amp;amp;amp;utm_campaign=Badge_Grade&#34;&gt;&lt;img src=&#34;https://api.codacy.com/project/badge/Grade/9adcf4cbd730472386d0e71ab27b9b6b&#34; alt=&#34;Codacy Badge&#34; /&gt;&lt;/a&gt; &lt;a href=&#34;https://circleci.com/gh/LREN-CHUV/data-catalog-setup&#34;&gt;&lt;img src=&#34;https://circleci.com/gh/LREN-CHUV/data-catalog-setup.svg?style=svg&#34; alt=&#34;CircleCI&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/i2b2-db&#34;&gt;i2b2-db&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPSP8Repo/i2b2-setup&#34;&gt;i2b2-setup&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/i2b2-db/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/i2b2-setup/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.codacy.com/app/mirco-nasuti/i2b2-db?utm_source=github.com&amp;amp;amp;utm_medium=referral&amp;amp;amp;utm_content=LREN-CHUV/i2b2-db&amp;amp;amp;utm_campaign=Badge_Grade&#34;&gt;&lt;img src=&#34;https://api.codacy.com/project/badge/Grade/b26a4201f7704c54a1aefbd823cf37ab&#34; alt=&#34;Codacy Badge&#34; /&gt;&lt;/a&gt; &lt;a href=&#34;https://circleci.com/gh/LREN-CHUV/i2b2-db&#34;&gt;&lt;img src=&#34;https://circleci.com/gh/LREN-CHUV/i2b2-db.svg?style=svg&#34; alt=&#34;CircleCI&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.codacy.com/app/mirco-nasuti/i2b2-setup?utm_source=github.com&amp;amp;amp;utm_medium=referral&amp;amp;amp;utm_content=LREN-CHUV/i2b2-setup&amp;amp;amp;utm_campaign=Badge_Grade&#34;&gt;&lt;img src=&#34;https://api.codacy.com/project/badge/Grade/b26a4201f7704c54a1aefbd823cf37ab&#34; alt=&#34;Codacy Badge&#34; /&gt;&lt;/a&gt; &lt;a href=&#34;https://circleci.com/gh/LREN-CHUV/i2b2-setup&#34;&gt;&lt;img src=&#34;https://circleci.com/gh/LREN-CHUV/i2b2-setup.svg?style=svg&#34; alt=&#34;CircleCI&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -671,6 +679,15 @@
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/hbpmip/postgresraw-ui/tags&#34; title=&#34;hbpmip/postgresraw-ui image tags&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/version/hbpmip/postgresraw-ui.svg&#34; alt=&#34;ImageVersion&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://microbadger.com/#/images/hbpmip/postgresraw-ui&#34; title=&#34;hbpmip/postgresraw-ui on microbadger&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/image/hbpmip/postgresraw-ui.svg&#34; alt=&#34;ImageLayers&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hub.docker.com/r/hbpmip/postgresraw/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/docker-hbpmip%2Fexaremelocal-008bb8.svg&#34; alt=&#34;DockerHub&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.madgik.di.uoa.gr/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/UOA-madgik-BDCFD6.svg&#34; alt=&#34;UOA&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://microbadger.com/images/hbpmip/exaremelocal&#34; title=&#34;Get your own version badge on microbadger.com&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/version/hbpmip/exaremelocal.svg&#34; alt=&#34;ImageVersion&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://microbadger.com/images/hbpmip/exaremelocal&#34; title=&#34;Get your own image badge on microbadger.com&#34;&gt;&lt;img src=&#34;https://images.microbadger.com/badges/image/hbpmip/exaremelocal.svg&#34; alt=&#34;ImageLayers&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
