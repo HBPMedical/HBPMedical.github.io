@@ -1,4 +1,4 @@
-baseurl = "https://hbpsp8repo.github.io/"
+baseurl = "https://hbpmedical.github.io/"
 canonifyurls = true
 googleAnalytics = "UA-80660232-2"
 languageCode = "en-uk"
@@ -45,7 +45,7 @@ highlight_css = ""
 logo = "images/hbp.png"
 permalink = "#"
 provider = ""
-repo_url = "https://github.com/HBPSP8Repo/HBPSP8Repo.github.io"
+repo_url = "https://github.com/HBPMedical/HBPMedical.github.io"
 version = ""
 [params.font]
 code = "Ubuntu Mono"
@@ -55,5 +55,5 @@ accent = "teal"
 primary = "red"
 [social]
 email = "hbp_medicalinformatics@chuv.ch"
-github = "HBPSP8Repo"
+github = "HBPMedical"
 twitter = "HBPmedical"
