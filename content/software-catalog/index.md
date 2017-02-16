@@ -58,7 +58,6 @@ It should contain all publicly accessible software for the phase SGA1 month 6.
 | [base-docker-images](https://github.com/HBPMedical/base-docker-images) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](https://github.com/LREN-CHUV/mip-microservices-infrastructure/blob/master/LICENSE.md) |   |   |
 | [functions-repository](https://github.com/HBPMedical/functions-repository) |  [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](https://github.com/LREN-CHUV/mip-microservices-infrastructure/blob/master/LICENSE.md) |   |   |
 | [sample-datasets-db](https://github.com/HBPMedical/sample-datasets-db) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](https://github.com/HBPMedical/sample-datasets-db/blob/master/LICENSE) |   |   |
-| [Exareme](https://github.com/HBPMedical/exareme) | [![UOA](https://img.shields.io/badge/UOA-madgik-BDCFD6.svg)](http://www.madgik.di.uoa.gr/) | [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/HBPMedical/exareme/blob/mip/LICENSE) |   | ![Travis-CI](https://travis-ci.org/madgik/exareme.svg?branch=mip)  |
 
 ### Data Factory
 
@@ -100,6 +99,7 @@ It should contain all publicly accessible software for the phase SGA1 month 6.
 | [PostgresRAW-UI](https://github.com/HBPMedical/PostgresRAW-UI)																			| [![EPFL](https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg)](http://dias.epfl.ch/)		| [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/HBPMedical/PostgresRAW-UI/blob/master/sniff_server/LICENSE)	|   |   |
 | [raw](https://github.com/HBPMedical/raw) 																						| [![EPFL](https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg)](http://dias.epfl.ch/)		| [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/HBPMedical/raw/blob/master/LICENSE)				|   |   |
 | [JDBCValidator](https://github.com/HBPMedical/JDBCValidator)																				| [![EPFL](https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg)](http://dias.epfl.ch/)		| [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/HBPMedical/JDBCValidator/blob/master/LICENSE.md)			|   |   |
+| [Exareme](https://github.com/HBPMedical/exareme) | [![UOA](https://img.shields.io/badge/UOA-madgik-BDCFD6.svg)](http://www.madgik.di.uoa.gr/) | [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/HBPMedical/exareme/blob/mip/LICENSE) |   | ![Travis-CI](https://travis-ci.org/madgik/exareme.svg?branch=mip)  |
 
 ## Docker images
 
