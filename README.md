@@ -49,3 +49,16 @@ When you are ready to publish, follow those steps:
 ```
 
 Done.
+
+## Online editing
+
+You can use the following services to contribute to the site:
+
+* [Appernetic](https://appernetic.io/)
+  * [Collaborating and working with Hugo themes](https://blog.appernetic.io/2016/02/18/collaborating-and-working-with-hugo-themes/)
+  * [Manage your website images in the cloud](https://blog.appernetic.io/2016/03/09/manage-your-web-site-images-in-the-cloud/)
+  * [Why use a static website generator?](https://blog.appernetic.io/2016/02/10/why-use-a-static-website-generator/)
+  * [Gitter channel](https://gitter.im/appernetic/issues/) for support
+* [Forestry](https://forestry.io/)
+
+Please be careful when publishing your changes back to Github.
