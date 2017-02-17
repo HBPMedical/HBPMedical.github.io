@@ -1,4 +1,4 @@
-# HBPSP8Repo.github.io
+# HBPMedical.github.io
 Public site for HBP SP8
 
 ## Modifications and contributions to the site
@@ -10,13 +10,13 @@ Development is done on the __content__ branch of this repository.
 To get started, type the following in a command line. You will need Git version 2.7 or better and Docker.
 
 ```
-  git clone git@github.com:HBPSP8Repo/HBPSP8Repo.github.io.git
-  cd HBPSP8Repo.github.io
+  git clone git@github.com:HBPMedical/HBPMedical.github.io.git
+  cd HBPMedical.github.io
   ./after-git-clone.sh
-  cd ../HBPSP8Repo.github.io.content
+  cd ../HBPMedical.github.io.content
 ```
 
-This will create the folder HBPSP8Repo.github.io.content that contains the Markdown files and the configuration for Hugo.
+This will create the folder HBPMedical.github.io.content that contains the Markdown files and the configuration for Hugo.
 
 Use the following command to run Hugo as a local server, available on [localhost:1313](http://localhost:1313/).
 Any change you do on Markdown files will be updated immediately in the local site.
