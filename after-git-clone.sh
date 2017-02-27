@@ -1,7 +1,6 @@
-#!/bin/sh
+#!/bin/sh -e
 
-git checkout content
-git checkout master
+git fetch origin content
 git worktree add ../HBPMedical.github.io.content content
 
 cd ../HBPMedical.github.io.content
