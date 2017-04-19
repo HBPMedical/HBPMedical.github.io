@@ -314,6 +314,14 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPMedical/python-base-docker-images&#34;&gt;python-base-docker-images&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/mip-microservices-infrastructure/blob/master/LICENSE.md&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/HBPMedical/functions-repository&#34;&gt;functions-repository&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/mip-microservices-infrastructure/blob/master/LICENSE.md&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
@@ -373,6 +381,14 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPMedical/hierarchizer&#34;&gt;hierarchizer&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/data-catalog-setup/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/HBPMedical/i2b2-setup&#34;&gt;i2b2-setup&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/LREN-CHUV/i2b2-setup/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
@@ -397,7 +413,7 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/HBPMedical/airflow-mri-preprocessing-dags&#34;&gt;airflow-mri-preprocessing-dags&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/HBPMedical/data-factory-airflow-dags&#34;&gt;data-factory-airflow-dags&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.unil.ch/lren/en/home.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/CHUV-LREN-AF4C64.svg&#34; alt=&#34;CHUV&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/HBPMedical/airflow-mri-preprocessing-dags/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
@@ -471,7 +487,7 @@
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/HBPMedical/jsi-functions&#34;&gt;jsi-functions&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://kt.ijs.si/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/JSI-KT-CCDDEE.svg&#34; alt=&#34;JSI&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;[&lt;img src=&#34;https://img.shields.io/badge/license-GPL--3.0-blue.svg&#34; alt=&#34;License&#34; /&gt;] [&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;]&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -496,83 +512,16 @@
 
 &lt;h3 id=&#34;hospital-database-bundle&#34;&gt;Hospital Database Bundle&lt;/h3&gt;
 
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Hospital database Bundle&lt;/th&gt;
-&lt;th&gt;Organisation&lt;/th&gt;
-&lt;th&gt;License&lt;/th&gt;
-&lt;th&gt;Planning&lt;/th&gt;
-&lt;th&gt;Continuous integration&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://collab.humanbrainproject.eu/#/collab/19/nav/2108?state=software,MIPMap&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/hbp-catalog-F49542.svg&#34; alt=&#34;Catalog&#34; /&gt;&lt;/a&gt; &lt;br/&gt; &lt;a href=&#34;https://github.com/HBPMedical/MIPMap&#34;&gt;MIPMap&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.aueb.gr/index_en.php&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/aueb-wim-9D5459.svg&#34; alt=&#34;AUEB&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/HBPMedical/MIPMap/blob/master/gpl-3.0.txt&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-GPL--3.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://collab.humanbrainproject.eu/#/collab/19/nav/2108?state=software,WebMIPMap&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/hbp-catalog-F49542.svg&#34; alt=&#34;Catalog&#34; /&gt;&lt;/a&gt; &lt;br/&gt; &lt;a href=&#34;https://github.com/HBPMedical/WebMIPMap&#34;&gt;WebMIPMap&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.aueb.gr/index_en.php&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/aueb-wim-9D5459.svg&#34; alt=&#34;AUEB&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/HBPMedical/WebMIPMap/blob/master/gpl-3.0.txt&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-GPL--3.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://collab.humanbrainproject.eu/#/collab/19/nav/2108?state=software,MIPMapRew&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/hbp-catalog-F49542.svg&#34; alt=&#34;Catalog&#34; /&gt;&lt;/a&gt; &lt;br/&gt; &lt;a href=&#34;https://github.com/HBPMedical/MIPMapRew&#34;&gt;MIPMapRew&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.aueb.gr/index_en.php&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/aueb-wim-9D5459.svg&#34; alt=&#34;AUEB&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/HBPMedical/PostgresRAW&#34;&gt;PostgresRAW&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://dias.epfl.ch/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg&#34; alt=&#34;EPFL&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/HBPMedical/PostgresRAW/blob/master/PostgresRaw/COPYRIGHT_DIAS&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/HBPMedical/PostgresRAW-UI&#34;&gt;PostgresRAW-UI&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://dias.epfl.ch/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg&#34; alt=&#34;EPFL&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/HBPMedical/PostgresRAW-UI/blob/master/sniff_server/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/HBPMedical/raw&#34;&gt;raw&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://dias.epfl.ch/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg&#34; alt=&#34;EPFL&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/HBPMedical/raw/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/HBPMedical/JDBCValidator&#34;&gt;JDBCValidator&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://dias.epfl.ch/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg&#34; alt=&#34;EPFL&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/HBPMedical/JDBCValidator/blob/master/LICENSE.md&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/HBPMedical/exareme&#34;&gt;Exareme&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.madgik.di.uoa.gr/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/UOA-madgik-BDCFD6.svg&#34; alt=&#34;UOA&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://github.com/HBPMedical/exareme/blob/mip/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;https://travis-ci.org/madgik/exareme.svg?branch=mip&#34; alt=&#34;Travis-CI&#34; /&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
+&lt;p&gt;| Hospital database Bundle | Organisation   | License     | Planning               | Continuous integration |
+|&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;|&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;|&amp;mdash;&amp;mdash;&amp;mdash;-|&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-|&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;|&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;|
+| &lt;a href=&#34;https://collab.humanbrainproject.eu/#/collab/19/nav/2108?state=software,MIPMap&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/hbp-catalog-F49542.svg&#34; alt=&#34;Catalog&#34; /&gt;&lt;/a&gt; &lt;br/&gt; &lt;a href=&#34;https://github.com/HBPMedical/MIPMap&#34;&gt;MIPMap&lt;/a&gt;        | &lt;a href=&#34;http://www.aueb.gr/index_en.php&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/aueb-wim-9D5459.svg&#34; alt=&#34;AUEB&#34; /&gt;&lt;/a&gt;  | &lt;a href=&#34;https://github.com/HBPMedical/MIPMap/blob/master/gpl-3.0.txt&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-GPL--3.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;            |   |   |
+| &lt;a href=&#34;https://collab.humanbrainproject.eu/#/collab/19/nav/2108?state=software,WebMIPMap&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/hbp-catalog-F49542.svg&#34; alt=&#34;Catalog&#34; /&gt;&lt;/a&gt; &lt;br/&gt; &lt;a href=&#34;https://github.com/HBPMedical/WebMIPMap&#34;&gt;WebMIPMap&lt;/a&gt;   | &lt;a href=&#34;http://www.aueb.gr/index_en.php&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/aueb-wim-9D5459.svg&#34; alt=&#34;AUEB&#34; /&gt;&lt;/a&gt;  | &lt;a href=&#34;https://github.com/HBPMedical/WebMIPMap/blob/master/gpl-3.0.txt&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-GPL--3.0-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;         |   |   |
+| &lt;a href=&#34;https://collab.humanbrainproject.eu/#/collab/19/nav/2108?state=software,MIPMapRew&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/hbp-catalog-F49542.svg&#34; alt=&#34;Catalog&#34; /&gt;&lt;/a&gt; &lt;br/&gt; &lt;a href=&#34;https://github.com/HBPMedical/MIPMapRew&#34;&gt;MIPMapRew&lt;/a&gt;   | &lt;a href=&#34;http://www.aueb.gr/index_en.php&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/aueb-wim-9D5459.svg&#34; alt=&#34;AUEB&#34; /&gt;&lt;/a&gt;  |                                                                           |   |   |
+| &lt;a href=&#34;https://github.com/HBPMedical/PostgresRAW&#34;&gt;PostgresRAW&lt;/a&gt;                                                                              | &lt;a href=&#34;http://dias.epfl.ch/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg&#34; alt=&#34;EPFL&#34; /&gt;&lt;/a&gt;        | &lt;a href=&#34;https://github.com/HBPMedical/PostgresRAW/blob/master/PostgresRaw/COPYRIGHT_DIAS&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt; |   |   |
+| &lt;a href=&#34;https://github.com/HBPMedical/PostgresRAW-UI&#34;&gt;PostgresRAW-UI&lt;/a&gt;                                                                            | &lt;a href=&#34;http://dias.epfl.ch/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg&#34; alt=&#34;EPFL&#34; /&gt;&lt;/a&gt;        | &lt;a href=&#34;https://github.com/HBPMedical/PostgresRAW-UI/blob/master/sniff_server/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;    |   |   |
+| &lt;a href=&#34;https://github.com/HBPMedical/raw&#34;&gt;raw&lt;/a&gt;                                                                                      | &lt;a href=&#34;http://dias.epfl.ch/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg&#34; alt=&#34;EPFL&#34; /&gt;&lt;/a&gt;        | &lt;a href=&#34;https://github.com/HBPMedical/raw/blob/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;                |   |   |
+| &lt;a href=&#34;https://github.com/HBPMedical/JDBCValidator&#34;&gt;JDBCValidator&lt;/a&gt;                                                                              | &lt;a href=&#34;http://dias.epfl.ch/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg&#34; alt=&#34;EPFL&#34; /&gt;&lt;/a&gt;        | &lt;a href=&#34;https://github.com/HBPMedical/JDBCValidator/blob/master/LICENSE.md&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt;           |   |   |
+| &lt;a href=&#34;https://github.com/HBPMedical/exareme&#34;&gt;Exareme&lt;/a&gt; | &lt;a href=&#34;http://www.madgik.di.uoa.gr/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/UOA-madgik-BDCFD6.svg&#34; alt=&#34;UOA&#34; /&gt;&lt;/a&gt; | &lt;a href=&#34;https://github.com/HBPMedical/exareme/blob/mip/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-blue.svg&#34; alt=&#34;License&#34; /&gt;&lt;/a&gt; |   | &lt;img src=&#34;https://travis-ci.org/madgik/exareme.svg?branch=mip&#34; alt=&#34;Travis-CI&#34; /&gt;  |&lt;/p&gt;
 
 &lt;h2 id=&#34;docker-images&#34;&gt;Docker images&lt;/h2&gt;
 
