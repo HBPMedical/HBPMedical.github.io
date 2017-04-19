@@ -11,11 +11,11 @@ plainIDAnchors = true
 smartDashes = true
 smartypants = true
 [[menu.main]]
-name = "Release notes"
+name = "Release Notes"
 url = "/release-notes"
 weight = 32
 [[menu.main]]
-name = "Technology stack"
+name = "Technology Stack"
 url = "software-catalog/stack/"
 weight = 31
 [[menu.main]]
