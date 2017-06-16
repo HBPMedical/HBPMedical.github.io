@@ -23,6 +23,26 @@ name = "Software Catalog"
 url = "software-catalog/"
 weight = 30
 [[menu.main]]
+name = "UoA"
+url = "contributors/uoa"
+weight = 29
+[[menu.main]]
+name = "AUEB"
+url = "contributors/aueb"
+weight = 28
+[[menu.main]]
+name = "EPFL"
+url = "contributors/epfl"
+weight = 27
+[[menu.main]]
+name = "CHUV"
+url = "contributors/chuv"
+weight = 26
+[[menu.main]]
+name = "List of contributors"
+url = "contributors/"
+weight = 25
+[[menu.main]]
 name = "Development Process"
 url = "development-process/"
 weight = 20
