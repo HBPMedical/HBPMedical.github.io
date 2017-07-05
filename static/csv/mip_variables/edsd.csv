@@ -1,0 +1,6 @@
+Gender;binomial;Null;Gender of the patient - Sex assigned at birth
+Handedness;Polynomial;Null;Describes the tendency of the patient to use either the right or the left hand more naturally than the other.
+MMSE Total scores;Null;Null;The Mini–Mental State Examination (MMSE) or Folstein test is a 30-point questionnaire that is used extensively in clinical and research settings to measure cognitive impairment. It is commonly used to screen for dementia.
+Alzheimer Broad Category;Polynomial;Null;"There will be three broad categories taken into account: Alzheimer's disease (AD) in which the diagnostic is 100% certain, Cognitively normal subjects and """"Other"""" comprising the rest of Alzheimer's related categories. The """"Other"""" category refers to Alzheime's related diagnosis which origin can be traced to other pathology eg. vascular. In this category MCI diagnosis can also be found. In summary, all Alzheimer's related diagnosis that are not pure"
+Neurogeneratives categories;Polynomial;Null;This category will aggregate illnesses or syndromes with a neurodegenerative nature.
+EDSD Category;Polynomial;Null;Terms aggregating illnesses into classes. Note that the diagnosis in this categories are given only for the EDSD data set
