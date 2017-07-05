@@ -1,21 +1,21 @@
 baseurl = "https://hbpmedical.github.io/"
-languageCode = "en-us"
-title = "HBP SP8 Repository"
-theme = "hugo-material-docs"
-metadataformat = "yaml"
 canonifyurls = true
 # Enable Google Analytics by entering your tracking id
-googleAnalytics = ""
+googleAnalytics = "UA-80660232-2"
+languageCode = "en-uk"
+metadataformat = "yaml"
+theme = "hugo-material-docs"
+title = "HBP SP8 Repository"
 
 [params]
 	# General information
 	author = "HBPMedical"
-	description = "A material design theme for documentations."
+	description = "SP8 subproject (Medical Informatics Platform) for the Human Brain Project."
 	copyright = "Released under the MIT license"
 
 	# Repository
 	provider = "GitHub"
-	#repo_url = "https://github.com/digitalcraftsman/hugo-material-docs"
+	repo_url = "https://github.com/HBPMedical/HBPMedical.github.io"
 
 	#version = "1.0.0"
 	logo = "images/hbp.png"
@@ -30,11 +30,11 @@ googleAnalytics = ""
 	# Syntax highlighting theme
 	highlight_css  = ""
 
-	[params.palette]
+[params.palette]
     	primary = "red"
     	accent  = "teal"
 
-    [params.font]
+[params.font]
     	text = "Ubuntu"
     	code = "Ubuntu Mono"
 
