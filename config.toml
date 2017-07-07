@@ -5,7 +5,7 @@ googleAnalytics = "UA-80660232-2"
 languageCode = "en-uk"
 metadataformat = "yaml"
 theme = "hugo-material-docs"
-title = "HBP SP8 Repository"
+title = "HBP Medical"
 
 [params]
 	# General information
@@ -51,7 +51,7 @@ title = "HBP SP8 Repository"
 #	weight = 0
 
 [[menu.main]]
-	name   = "HBP SP8"
+	name   = "HBP Medical"
 	url    = "/"
 	weight = 10
 
