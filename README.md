@@ -42,7 +42,7 @@ When you are ready to publish, follow those steps:
   # build the site
   ./build.sh
   # publish the new site
-  cd ../HBPSP8Repo.github.io
+  cd ../HBPMedical.github.io
   git add --all .
   git commit -m "<My changes>"
   git push

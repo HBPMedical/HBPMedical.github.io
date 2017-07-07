@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contributors on HBP SP8 Repository</title>
+    <link>https://hbpmedical.github.io/contributors/</link>
+    <description>Recent content in Contributors on HBP SP8 Repository</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>Released under the MIT license</copyright>
+    <lastBuildDate>Mon, 27 Mar 2017 14:14:51 +0200</lastBuildDate>
+    
+	<atom:link href="https://hbpmedical.github.io/contributors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contributors to MIP</title>
+      <link>https://hbpmedical.github.io/contributors/</link>
+      <pubDate>Mon, 27 Mar 2017 14:14:51 +0200</pubDate>
+      
+      <guid>https://hbpmedical.github.io/contributors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AUEB</title>
+      <link>https://hbpmedical.github.io/contributors/aueb/</link>
+      <pubDate>Mon, 27 Mar 2017 14:14:51 +0200</pubDate>
+      
+      <guid>https://hbpmedical.github.io/contributors/aueb/</guid>
+      <description>Athens University of Economics and Business</description>
+    </item>
+    
+    <item>
+      <title>EPFL</title>
+      <link>https://hbpmedical.github.io/contributors/epfl/</link>
+      <pubDate>Mon, 27 Mar 2017 14:14:51 +0200</pubDate>
+      
+      <guid>https://hbpmedical.github.io/contributors/epfl/</guid>
+      <description>DIAS laborary at EPFL ](http://dias.epfl.ch/)</description>
+    </item>
+    
+    <item>
+      <title>LREN laboratory at CHUV</title>
+      <link>https://hbpmedical.github.io/contributors/chuv/</link>
+      <pubDate>Mon, 27 Mar 2017 14:14:51 +0200</pubDate>
+      
+      <guid>https://hbpmedical.github.io/contributors/chuv/</guid>
+      <description>LREN laboratory at CHUV LREN is the Laboratoire de recherche en neuroimagerie and belongs to CHUV, Centre hospitalier universitaire vaudois, a major hospital in Lausanne, Switzerland.
+](https://www.unil.ch/lren/en/home.html)</description>
+    </item>
+    
+    <item>
+      <title>UoA</title>
+      <link>https://hbpmedical.github.io/contributors/uoa/</link>
+      <pubDate>Mon, 27 Mar 2017 14:14:51 +0200</pubDate>
+      
+      <guid>https://hbpmedical.github.io/contributors/uoa/</guid>
+      <description>MADGIK at University of Athens</description>
+    </item>
+    
+  </channel>
+</rss>
