@@ -20,5 +20,3 @@ You can access the platform via one of those links:
 * [Next version on staging environment](http://hbps1.chuv.ch)
 
 You may need to obtain a HBP Identity Account to login in the platform. More information [here](https://www.humanbrainproject.eu/platform-access).
-
-<a class="twitter-timeline" href="https://twitter.com/HBPmedical">Tweets by HBPmedical</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

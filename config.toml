@@ -14,8 +14,8 @@ title = "HBP SP8 Repository"
 	copyright = "Released under the MIT license"
 
 	# Repository
-	provider = "GitHub"
-	repo_url = "https://github.com/HBPMedical/HBPMedical.github.io"
+	provider = ""
+	repo_url = ""
 
 	#version = "1.0.0"
 	logo = "images/hbp.png"
@@ -76,8 +76,13 @@ title = "HBP SP8 Repository"
 	weight = 50
 
 [[menu.main]]
-	name   = "Release Notes"
-	url    = "https://hbpmedical.github.io/release-notes"
+	name   = "Technical specifications"
+	url    = "https://hbpmedical.github.io/specifications/"
+	weight = 60
+
+[[menu.main]]
+	name   = "Deployment requirements"
+	url    = "https://hbpmedical.github.io/deployment/"
 	weight = 60
 
 [[menu.main]]

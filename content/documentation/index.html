@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-  
-  
-  
-  
-   <html class="no-js"> 
+
+
+
+
+   <html class="no-js">
 
   <head lang="en-uk">
     <meta charset="utf-8">
@@ -12,13 +12,13 @@
     <title>Documentation - HBP SP8 repository</title>
     <meta name="generator" content="Hugo 0.17" />
 
-    
+
     <meta name="description" content="SP8 subproject (Medical Informatics Platform) for the Human Brain Project.">
-    
+
     <link rel="canonical" href="https://hbpmedical.github.io/documentation/">
-    
+
     <meta name="author" content="HBP SP8 team">
-    
+
 
     <meta property="og:url" content="https://hbpmedical.github.io/documentation/">
     <meta property="og:title" content="HBP SP8 repository">
@@ -55,9 +55,9 @@
     <!-- Accordion CSS + .js-->
     <link rel="stylesheet" href="accordion.css">
     <script src="accordion.js"></script>
-   
-    
-    
+
+
+
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Ubuntu:400,700|Ubuntu&#43;Mono">
     <style>
       body, input {
@@ -68,10 +68,10 @@
       }
     </style>
 
-    
+
     <script src="https://hbpmedical.github.io/javascripts/modernizr.js"></script>
 
-    
+
 	<script>
 	  function resizeIframe(obj) {
 	  	obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
@@ -105,19 +105,19 @@
       </div>
     </div>
 
-    
+
     <div class="button button-twitter" role="button" aria-label="Twitter">
        <a href="https://twitter.com/HBPmedical" title="@HBPmedical on Twitter" target="_blank" class="toggle-button icon icon-twitter"></a>
     </div>
-    
 
-    
+
+
     <div class="button button-github" role="button" aria-label="GitHub">
-      <a href="https://github.com/HBPSP8Repo" title="@HBPSP8Repo on GitHub" target="_blank" class="toggle-button icon icon-github"></a>
+      <a href="https://github.com/HBPMedical" title="@HBPMedical on GitHub" target="_blank" class="toggle-button icon icon-github"></a>
     </div>
-    
-    
-        
+
+
+
   </div>
   <div class="bar search">
     <div class="button button-close" role="button" aria-label="Close">
@@ -148,8 +148,8 @@
 			<h2 id="user_guide">User Guide</h2>
 			You can find the detailed user guide at the following <a href="https://hbpmedical.github.io/documentation/HBP_SP8_UserGuide_latest.pdf">link</a>
 			<h2 id="mip_tools">MIP tools</h2>
-			The complete list of MIP tools is available <a href="http://193.204.145.80:1313/docs/mip_tools.pdf">here</a>.
-			
+			The complete list of MIP tools is available <a href="https://hbpmedical.github.io/docs/mip_tools.pdf">here</a>.
+
 			<h2 id="mip_variables">MIP Variables</h2>
 			<button class="accordion" style="margin-top: 15px">ADNI</button>
 			<div class="panel">
@@ -164,9 +164,9 @@
 				</tr>
 				</thead>
 				<tbody>
-					{{ $url := "http://193.204.145.80:1313/csv/mip_variables_4.csv" }}
-					{{ $sep := ";" }}
-					{{ range $i, $r := getCSV $sep $url }}
+          {{ $url := "data/csv/mip_variables_4.csv" }}
+          {{ $sep := ";" }}
+          {{ range $i, $r := getCSV $sep $url }}
 					<tr>
 						<td>{{ index $r 0 }}</td>
 						<td>{{ index $r 1 }}</td>
@@ -190,7 +190,7 @@
 				</tr>
 				</thead>
 				<tbody>
-					{{ $url := "http://193.204.145.80:1313/csv/mip_variables/ppmi.csv" }}
+          {{ $url := "data/csv/mip_variables/ppmi.csv" }}
 					{{ $sep := ";" }}
 					{{ range $i, $r := getCSV $sep $url }}
 					<tr>
@@ -216,7 +216,7 @@
 				</tr>
 				</thead>
 				<tbody>
-					{{ $url := "http://193.204.145.80:1313/csv/mip_variables/edsd.csv" }}
+          {{ $url := "data/csv/mip_variables/edsd.csv" }}
 					{{ $sep := ";" }}
 					{{ range $i, $r := getCSV $sep $url }}
 					<tr>
@@ -242,7 +242,7 @@
 				</tr>
 				</thead>
 				<tbody>
-					{{ $url := "http://193.204.145.80:1313/csv/mip_variables/freiburg.csv" }}
+          {{ $url := "data/csv/mip_variables/freiburg.csv" }}
 					{{ $sep := ";" }}
 					{{ range $i, $r := getCSV $sep $url }}
 					<tr>
@@ -268,7 +268,7 @@
 				</tr>
 				</thead>
 				<tbody>
-					{{ $url := "http://193.204.145.80:1313/csv/mip_variables/lausanne.csv" }}
+          {{ $url := "data/csv/mip_variables/lausanne.csv" }}
 					{{ $sep := ";" }}
 					{{ range $i, $r := getCSV $sep $url }}
 					<tr>
@@ -294,7 +294,7 @@
 				</tr>
 				</thead>
 				<tbody>
-					{{ $url := "http://193.204.145.80:1313/csv/mip_variables/milan.csv" }}
+          {{ $url := "data/csv/mip_variables/milan.csv" }}
 					{{ $sep := ";" }}
 					{{ range $i, $r := getCSV $sep $url }}
 					<tr>
@@ -320,7 +320,7 @@
 				</tr>
 				</thead>
 				<tbody>
-					{{ $url := "http://193.204.145.80:1313/csv/mip_variables/lille.csv" }}
+          {{ $url := "data/csv/mip_variables/lille.csv" }}
 					{{ $sep := ";" }}
 					{{ range $i, $r := getCSV $sep $url }}
 					<tr>
@@ -346,7 +346,7 @@
 				</tr>
 				</thead>
 				<tbody>
-					{{ $url := "http://193.204.145.80:1313/csv/mip_variables_4.csv" }}
+          {{ $url := "data/csv/mip_variables/tel_aviv.csv" }}
 					{{ $sep := ";" }}
 					{{ range $i, $r := getCSV $sep $url }}
 					<tr>
@@ -365,7 +365,7 @@
 			<h1 align="left">Technical Documentation</h1>
 
 			<p><h2 id="mip_services">MIP services</h2></p>
-			You can find the full list of MIP services <a href="http://193.204.145.80:1313/docs/mip_services.pdf">here</a>.
+			You can find the full list of MIP services <a href="https://hbpmedical.github.io/docs/mip_services.pdf">here</a>.
 
 			<p><h2 id="hospitals_info">Hospitals Information System Database</h2></p>
 			<table>
@@ -403,7 +403,7 @@
 			<button class="accordion" style="margin-top: 15px">Open/Close Table</button>
 			<div class="panel">
 			<br>
-			
+
 			<table style="float: left; margin-left: 0px; margin-top: -20px; white-space: nowrap; overflow:scroll;">
 				<thead>
 				<tr>
@@ -439,7 +439,7 @@
 				</tr>
 				</thead>
 				<tbody>
-					{{ $url := "http://193.204.145.80:1313/csv/research_datasets_of_interest_4_3.csv" }}
+					{{ $url := "https://hbpmedical.github.io/csv/research_datasets_of_interest_4_3.csv" }}
 					{{ $sep := ";" }}
 					{{ range $i, $r := getCSV $sep $url }}
 					<tr>
@@ -491,7 +491,7 @@
 						panel.style.maxHeight = null;
 					} else {
 						panel.style.maxHeight = panel.scrollHeight + "px";
-					} 
+					}
 				}
 			}
 			</script>
@@ -500,9 +500,9 @@
 			<br />
 
 				<aside class="copyright" role="note">
-				
+
 				&copy; 2017 Released under the MIT license &ndash;
-				
+
 				Documentation built with
 				<a href="https://www.gohugo.io" target="_blank">Hugo</a>
 				using the
@@ -510,11 +510,11 @@
 			</aside>
 
 			<footer class="footer">
-				
+
 
 <nav class="pagination" aria-label="Footer">
   <div class="previous">
-  
+
       <a href="https://hbpmedical.github.io/" title="HBP SP8 repository">
         <span class="direction">
           Previous
@@ -530,11 +530,11 @@
           </div>
         </div>
       </a>
-  
+
   </div>
 
   <div class="next">
-  
+
       <a href="https://hbpmedical.github.io/development-process/" title="Development process">
         <span class="direction">
           Next
@@ -550,7 +550,7 @@
           </div>
         </div>
       </a>
-  
+
   </div>
 </nav>
 
@@ -573,10 +573,10 @@
 </main>
 
     <script>
-    
+
       var base_url = '';
       var repo_id  = '';
-    
+
     </script>
 
     <script src="https://hbpmedical.github.io/javascripts/application.js"></script>
@@ -619,7 +619,7 @@
       }
     </script>
 
-    
+
       <script>
         (function(i,s,o,g,r,a,m){
           i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||
@@ -628,11 +628,11 @@
           m.parentNode.insertBefore(a,m)
         })(window, document,
           'script', '//www.google-analytics.com/analytics.js', 'ga');
-         
+
         ga('create', 'UA-80660232-2', 'auto');
         ga('set', 'anonymizeIp', true);
         ga('send', 'pageview');
-         
+
         var buttons = document.querySelectorAll('a');
         Array.prototype.map.call(buttons, function(item) {
           if (item.host != document.location.host) {
@@ -642,7 +642,7 @@
             });
           }
         });
-         
+
         var query = document.querySelector('.query');
         query.addEventListener('blur', function() {
           if (this.value) {
@@ -651,10 +651,9 @@
           }
         });
       </script>
-    
+
 
     <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/highlight.min.js"></script>
     <script>hljs.initHighlightingOnLoad();</script>
   </body>
 </html>
-

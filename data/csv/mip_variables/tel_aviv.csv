@@ -1,4 +1,4 @@
-Selected varaibles;Category;Methodology Varaible;Description
+Selected variables;Category;Methodology Variable;Description
 admission times;Administration ;Null;date+ time
 discharge times;Administration ;Null;date+ time
 admission and discharge ward;Administration ;Null;Null
@@ -24,7 +24,7 @@ troponine;Labs;Null;Null
 chemistry;Labs;Null;Null
 POC;Labs;Null;glucose
 hematology;Labs;Null;Null
-blood cultures;Microbiology;Null;date+time of culture, bacterias found 
+blood cultures;Microbiology;Null;date+time of culture, bacterias found
 urine cultures;Microbiology;Null;Null
 general cultures;Microbiology;Null;Null
 CT/MRI;Imaging;Null;date+time of image

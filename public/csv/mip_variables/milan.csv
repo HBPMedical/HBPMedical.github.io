@@ -1,4 +1,4 @@
-Selected varaibles;Category;Methodology Varaible;Description
+Selected variables;Category;Methodology Varaible;Description
 CCEin;EMR in;Varchar / Number;Initial referral visit and EEG - Specialist neuropsychological evaluation data (clinical report) - Therapeutic prescriptions
 CCEout;EMR out;Varchar / Number;Specialist neuropsychological evaluation data (clinical report), SDO data, Discharge forms, Therapeutic prescriptions
 GTIS;Medication;Varchar / Number;Therapeutic prescriptions
