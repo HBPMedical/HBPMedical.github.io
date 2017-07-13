@@ -6,5 +6,4 @@ else
   DOCKER="sudo docker"
 fi
 
-$DOCKER run --rm -P -v $(pwd):/src -v $(pwd)/../HBPMedical.github.io/:/output/ jojomi/hugo:0.24.1
-
+$DOCKER run --rm -P -v $(pwd):/src -v $(pwd)/../HBPMedical.github.io/:/output/ jojomi/hugo:0.25
