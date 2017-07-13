@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Release-notes on HBP Medical</title>
-    <link>https://hbpmedical.github.io/release-notes/</link>
+    <link>http://localhost:1313/release-notes/</link>
     <description>Recent content in Release-notes on HBP Medical</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>Released under the MIT license</copyright>
     <lastBuildDate>Tue, 16 May 2017 17:33:06 +0200</lastBuildDate>
     
-	<atom:link href="https://hbpmedical.github.io/release-notes/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/release-notes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>index</title>
-      <link>https://hbpmedical.github.io/release-notes/</link>
+      <link>http://localhost:1313/release-notes/</link>
       <pubDate>Tue, 16 May 2017 17:33:06 +0200</pubDate>
       
-      <guid>https://hbpmedical.github.io/release-notes/</guid>
+      <guid>http://localhost:1313/release-notes/</guid>
       <description></description>
     </item>
     

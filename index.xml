@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HBP Medical</title>
-    <link>https://hbpmedical.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on HBP Medical</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>Released under the MIT license</copyright>
     <lastBuildDate>Wed, 28 Sep 2016 12:34:51 +0200</lastBuildDate>
     
-	<atom:link href="https://hbpmedical.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Documentation</title>
-      <link>https://hbpmedical.github.io/documentation/</link>
+      <link>http://localhost:1313/documentation/</link>
       <pubDate>Wed, 28 Sep 2016 12:34:51 +0200</pubDate>
       
-      <guid>https://hbpmedical.github.io/documentation/</guid>
+      <guid>http://localhost:1313/documentation/</guid>
       <description>User guide
 Help site
 Media</description>
@@ -25,65 +25,65 @@ Media</description>
     
     <item>
       <title>Contributors to MIP</title>
-      <link>https://hbpmedical.github.io/contributors/</link>
+      <link>http://localhost:1313/contributors/</link>
       <pubDate>Mon, 27 Mar 2017 14:14:51 +0200</pubDate>
       
-      <guid>https://hbpmedical.github.io/contributors/</guid>
+      <guid>http://localhost:1313/contributors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development process</title>
-      <link>https://hbpmedical.github.io/development-process/</link>
+      <link>http://localhost:1313/development-process/</link>
       <pubDate>Fri, 07 Oct 2016 18:23:51 +0200</pubDate>
       
-      <guid>https://hbpmedical.github.io/development-process/</guid>
+      <guid>http://localhost:1313/development-process/</guid>
       <description>Code Versioning and Working Practice  The code of the MIP is versioned into Github. Each project should contain at least a master branch and a stable branch. The stable branch should contain only strongly tested code that can be used in a production environment. The master branch should contain the latest working features that needs to be strongly tested before being merged to the stable branch. Each developer should create new branches (usually from the master branch) to implement new features and/or to fix bugs.</description>
     </item>
     
     <item>
       <title>AUEB</title>
-      <link>https://hbpmedical.github.io/contributors/aueb/</link>
+      <link>http://localhost:1313/contributors/aueb/</link>
       <pubDate>Mon, 27 Mar 2017 14:14:51 +0200</pubDate>
       
-      <guid>https://hbpmedical.github.io/contributors/aueb/</guid>
+      <guid>http://localhost:1313/contributors/aueb/</guid>
       <description>Athens University of Economics and Business</description>
     </item>
     
     <item>
       <title>EPFL</title>
-      <link>https://hbpmedical.github.io/contributors/epfl/</link>
+      <link>http://localhost:1313/contributors/epfl/</link>
       <pubDate>Mon, 27 Mar 2017 14:14:51 +0200</pubDate>
       
-      <guid>https://hbpmedical.github.io/contributors/epfl/</guid>
+      <guid>http://localhost:1313/contributors/epfl/</guid>
       <description>DIAS laborary at EPFL ](http://dias.epfl.ch/)</description>
     </item>
     
     <item>
       <title>LREN laboratory at CHUV</title>
-      <link>https://hbpmedical.github.io/contributors/chuv/</link>
+      <link>http://localhost:1313/contributors/chuv/</link>
       <pubDate>Mon, 27 Mar 2017 14:14:51 +0200</pubDate>
       
-      <guid>https://hbpmedical.github.io/contributors/chuv/</guid>
+      <guid>http://localhost:1313/contributors/chuv/</guid>
       <description>LREN laboratory at CHUV LREN is the Laboratoire de recherche en neuroimagerie and belongs to CHUV, Centre hospitalier universitaire vaudois, a major hospital in Lausanne, Switzerland.
 ](https://www.unil.ch/lren/en/home.html)</description>
     </item>
     
     <item>
       <title>UoA</title>
-      <link>https://hbpmedical.github.io/contributors/uoa/</link>
+      <link>http://localhost:1313/contributors/uoa/</link>
       <pubDate>Mon, 27 Mar 2017 14:14:51 +0200</pubDate>
       
-      <guid>https://hbpmedical.github.io/contributors/uoa/</guid>
+      <guid>http://localhost:1313/contributors/uoa/</guid>
       <description>MADGIK at University of Athens</description>
     </item>
     
     <item>
       <title>Software Catalog</title>
-      <link>https://hbpmedical.github.io/software-catalog/</link>
+      <link>http://localhost:1313/software-catalog/</link>
       <pubDate>Sun, 30 Oct 2016 18:23:51 +0200</pubDate>
       
-      <guid>https://hbpmedical.github.io/software-catalog/</guid>
+      <guid>http://localhost:1313/software-catalog/</guid>
       <description>This catalog attempts to collect all open-source software produced for the Medical Informatics Platform.
 It should contain all publicly accessible software for the phase SGA1 month 6.
 Open source software Infrastructure  
@@ -92,65 +92,65 @@ Open source software Infrastructure
     
     <item>
       <title>Technology stack</title>
-      <link>https://hbpmedical.github.io/software-catalog/stack/</link>
+      <link>http://localhost:1313/software-catalog/stack/</link>
       <pubDate>Tue, 08 Nov 2016 18:14:51 +0200</pubDate>
       
-      <guid>https://hbpmedical.github.io/software-catalog/stack/</guid>
+      <guid>http://localhost:1313/software-catalog/stack/</guid>
       <description>Loading technology stack...  function poll(fn, timeout, interval) { var endTime = Number(new Date()) + (timeout || 2000); interval = interval || 100; var checkCondition = function(resolve, reject) { var result = fn(); if(result) { resolve(result); } else if (Number(new Date()) iframe&#34;).length == 1; }, 30000, 1000).then(function() { loading_frame_msg.parentElement.removeChild(loading_frame_msg); }).catch(function() { });</description>
     </item>
     
     <item>
       <title>Technology Stack</title>
-      <link>https://hbpmedical.github.io/technology-stack/</link>
+      <link>http://localhost:1313/technology-stack/</link>
       <pubDate>Wed, 09 Mar 2016 20:10:46 +0100</pubDate>
       
-      <guid>https://hbpmedical.github.io/technology-stack/</guid>
+      <guid>http://localhost:1313/technology-stack/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>https://hbpmedical.github.io/search/</link>
+      <link>http://localhost:1313/search/</link>
       <pubDate>Wed, 17 May 2017 11:11:46 +0200</pubDate>
       
-      <guid>https://hbpmedical.github.io/search/</guid>
+      <guid>http://localhost:1313/search/</guid>
       <description> Search content within the documentation Search
           $(document).ready(function() { $(&#39;#tipue_search_input&#39;).tipuesearch({ &#39;mode&#39;: &#39;live&#39; }); });  </description>
     </item>
     
     <item>
       <title>Media</title>
-      <link>https://hbpmedical.github.io/media/</link>
+      <link>http://localhost:1313/media/</link>
       <pubDate>Tue, 16 May 2017 17:33:14 +0200</pubDate>
       
-      <guid>https://hbpmedical.github.io/media/</guid>
+      <guid>http://localhost:1313/media/</guid>
       <description>MIP in a Nutshell   New machine learning techniques and algorithms : k-nearest neighbor, Gaussian Process Regression, SVM, Random Forest Experiments: user can create Experiments on existing models (own or shared), configure and apply cross-validation partitions, run the Experiments to view results, save the Experiments and optionally share them with the MIP Community Integration of Experiments into existing MIP functionality (My Data, My Community, Article writting, Biological Signatures of Diseases) - i.</description>
     </item>
     
     <item>
       <title>index</title>
-      <link>https://hbpmedical.github.io/release-notes/</link>
+      <link>http://localhost:1313/release-notes/</link>
       <pubDate>Tue, 16 May 2017 17:33:06 +0200</pubDate>
       
-      <guid>https://hbpmedical.github.io/release-notes/</guid>
+      <guid>http://localhost:1313/release-notes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HBP Medical</title>
-      <link>https://hbpmedical.github.io/</link>
+      <link>http://localhost:1313/</link>
       <pubDate>Wed, 28 Sep 2016 12:33:51 +0200</pubDate>
       
-      <guid>https://hbpmedical.github.io/</guid>
+      <guid>http://localhost:1313/</guid>
       <description>Medical Informatics Platform for the Human Brain Project Thousands of brain images and terabytes of invaluable associated medical data are produced every day at a gigantic pace around the world. The Medical Informatics Platform (MIP) aims to federate this information and provide the tools to the experts to effectively analyse it and advance more rapidly in understanding the neurological and psychiatric diseases. This will in turn allow identifying the biological changes associated and open real possibilities for early diagnosis and personalised medicine.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://hbpmedical.github.io/documentation/</link>
+      <link>http://localhost:1313/documentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hbpmedical.github.io/documentation/</guid>
+      <guid>http://localhost:1313/documentation/</guid>
       <description>Documentation - HBP Medical  @font-face { font-family: &#39;Icon&#39;; src: url(&#39;https://hbpmedical.github.io/fonts/icon.eot&#39;); src: url(&#39;https://hbpmedical.github.io/fonts/icon.eot&#39;) format(&#39;embedded-opentype&#39;), url(&#39;https://hbpmedical.github.io/fonts/icon.woff&#39;) format(&#39;woff&#39;), url(&#39;https://hbpmedical.github.io/fonts/icon.ttf&#39;) format(&#39;truetype&#39;), url(&#39;https://hbpmedical.github.io/fonts/icon.svg&#39;) format(&#39;svg&#39;); font-weight: normal; font-style: normal; }    body, input { font-family: &#39;Ubuntu&#39;, Helvetica, Arial, sans-serif; } pre, code { font-family: &#39;Ubuntu Mono&#39;, &#39;Courier New&#39;, &#39;Courier&#39;, monospace; }    function resizeIframe(obj) { obj.style.height = obj.contentWindow.document.body.scrollHeight + &#39;px&#39;; }         Documentation                 {{ partial &#34;</description>
     </item>
     
