@@ -3,139 +3,139 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/documentation/</loc>
+    <loc>https://hbpmedical.github.io/documentation/</loc>
     <lastmod>2016-09-28T12:34:51+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/contributors/</loc>
+    <loc>https://hbpmedical.github.io/contributors/</loc>
     <lastmod>2017-03-27T14:14:51+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/development-process/</loc>
+    <loc>https://hbpmedical.github.io/development-process/</loc>
     <lastmod>2016-10-07T18:23:51+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/contributors/aueb/</loc>
+    <loc>https://hbpmedical.github.io/contributors/aueb/</loc>
     <lastmod>2017-03-27T14:14:51+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/contributors/epfl/</loc>
+    <loc>https://hbpmedical.github.io/contributors/epfl/</loc>
     <lastmod>2017-03-27T14:14:51+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/contributors/chuv/</loc>
+    <loc>https://hbpmedical.github.io/contributors/chuv/</loc>
     <lastmod>2017-03-27T14:14:51+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/contributors/uoa/</loc>
+    <loc>https://hbpmedical.github.io/contributors/uoa/</loc>
     <lastmod>2017-03-27T14:14:51+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/software-catalog/</loc>
+    <loc>https://hbpmedical.github.io/software-catalog/</loc>
     <lastmod>2016-10-30T18:23:51+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/software-catalog/stack/</loc>
+    <loc>https://hbpmedical.github.io/software-catalog/stack/</loc>
     <lastmod>2016-11-08T18:14:51+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/technology-stack/</loc>
+    <loc>https://hbpmedical.github.io/technology-stack/</loc>
     <lastmod>2016-03-09T20:10:46+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://hbpmedical.github.io/search/</loc>
     <lastmod>2017-05-17T11:11:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/media/</loc>
+    <loc>https://hbpmedical.github.io/media/</loc>
     <lastmod>2017-05-16T17:33:14+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/release-notes/</loc>
+    <loc>https://hbpmedical.github.io/release-notes/</loc>
     <lastmod>2017-05-16T17:33:06+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://hbpmedical.github.io/</loc>
     <lastmod>2016-09-28T12:33:51+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/documentation/</loc>
+    <loc>https://hbpmedical.github.io/documentation/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://hbpmedical.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/contributors/</loc>
+    <loc>https://hbpmedical.github.io/contributors/</loc>
     <lastmod>2017-03-27T14:14:51+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/development-process/</loc>
+    <loc>https://hbpmedical.github.io/development-process/</loc>
     <lastmod>2016-10-07T18:23:51+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/documentation/</loc>
+    <loc>https://hbpmedical.github.io/documentation/</loc>
     <lastmod>2016-09-28T12:34:51+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://hbpmedical.github.io/</loc>
     <lastmod>2016-09-28T12:34:51+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/media/</loc>
+    <loc>https://hbpmedical.github.io/media/</loc>
     <lastmod>2017-05-16T17:33:14+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/release-notes/</loc>
+    <loc>https://hbpmedical.github.io/release-notes/</loc>
     <lastmod>2017-05-16T17:33:06+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://hbpmedical.github.io/search/</loc>
     <lastmod>2017-05-17T11:11:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/software-catalog/</loc>
+    <loc>https://hbpmedical.github.io/software-catalog/</loc>
     <lastmod>2016-10-30T18:23:51+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://hbpmedical.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/technology-stack/</loc>
+    <loc>https://hbpmedical.github.io/technology-stack/</loc>
     <lastmod>2016-03-09T20:10:46+01:00</lastmod>
     <priority>0</priority>
   </url>
