@@ -1,102 +1,66 @@
-baseurl = "https://hbpmedical.github.io/"
-canonifyurls = true
-# Enable Google Analytics by entering your tracking id
-googleAnalytics = "UA-80660232-2"
+baseurl = "localhost/"
 languageCode = "en-uk"
 metadataformat = "yaml"
-theme = "hugo-material-docs"
-title = "HBP Medical"
+DefaultContentLanguage = "en"
+googleAnalytics = "UA-80660232-2"
+canonifyurls = false
 
-[params]
-	# General information
-	author = "HBPMedical"
-	description = "SP8 subproject (Medical Informatics Platform) for the Human Brain Project."
-	copyright = "Released under the MIT license"
+title = "MIP Documentation"
+theme = "docdock"
 
-	# Repository
-	provider = ""
-	repo_url = ""
-
-	#version = "1.0.0"
-	logo = "images/hbp.png"
-	favicon = ""
-
-	permalink = "#"
-
-	# Custom assets
-	custom_css = []
-	custom_js  = []
-
-	# Syntax highlighting theme
-	highlight_css  = ""
-
-[params.palette]
-    	primary = "red"
-    	accent  = "teal"
-
-[params.font]
-    	text = "Ubuntu"
-    	code = "Ubuntu Mono"
-
-
-[social]
-	twitter = "HBPMedical"
-	github  = "HBPMedical"
-	email   = "hbp_medicalinformatics@chuv.ch"
-
-
-#[[menu.main]]
-#	name   = "Material"
-#	url    = "/"
-#	weight = 0
-
-[[menu.main]]
-	name   = "HBP Medical"
-	url    = "/"
-	weight = 10
-
-[[menu.main]]
-	name   = "Documentation"
-	url    = "documentation/"
-	weight = 20
-
-[[menu.main]]
-	name   = "Development Process"
-	url    = "development-process/"
-	weight = 30
-
-[[menu.main]]
-	name   = "Software Catalog"
-	url    = "software-catalog/"
-	weight = 40
-
-[[menu.main]]
-	name   = "Technology Stack"
-	url    = "technology-stack/"
-	weight = 50
-
-[[menu.main]]
-	name   = "Technical specifications"
-	url    = "https://hbpmedical.github.io/specifications/"
-	weight = 60
-
-[[menu.main]]
-	name   = "Deployment requirements"
-	url    = "https://hbpmedical.github.io/deployment/"
-	weight = 60
-
-[[menu.main]]
-	name   = "Media"
-	url    = "media/"
-	weight = 70
-
-[[menu.main]]
-	name   = "Search"
-	url    = "search/"
-	weight = 80
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
 
 [blackfriday]
-	smartypants	= true
-	fractions = true
-	smartDashes = true
-	plainIDAnchors = true
+fractions = true
+plainIDAnchors = true
+smartDashes = true
+smartypants = true
+
+[params]
+editURL = "https://github.com/HBPMedical/specifications/edit/master/content/"
+themeVariant = "gold" # choose theme variant "green", "gold" , "gray", "blue" (default)
+noHomeIcon = false # default is false
+noSearch = false # default is false
+showVisitedLinks = true # default is false
+author = "HBP SP8 team"
+copyright = "Released under the MIT license"
+custom_css = []
+custom_js = []
+description = "Specifications for the Medical Informatics Platform of the Human Brain Project."
+favicon = ""
+highlight_css = ""
+permalink = "#"
+provider = ""
+repo_url = "https://github.com/HBPMedical/specifications"
+version = ""
+cde_version = "0.1.6"
+
+[params.font]
+code = "Ubuntu Mono"
+text = "Ubuntu"
+
+[params.palette]
+accent = "teal"
+primary = "red"
+
+[social]
+github = "HBPMedical"
+
+[[menu.shortcuts]]
+pre = "<h3>More</h3>"
+name = "<i class='fa fa-step-forward'></i>  HBP Specifications"
+identifier = "hbpspecs"
+url = "https://hbpmedical.github.io/specifications"
+weight = 10
+
+[[menu.shortcuts]]
+name = "<i class='fa fa-github'></i> Github repo for this doc"
+identifier = "hbpdocs"
+url = "https://github.com/HBPMedical/HBPSP8Repo.github.io"
+weight = 11
+
+[[menu.shortcuts]]
+name = "<i class='fa fa-bullhorn'></i> Credits"
+url = "/credits"
+weight = 20
