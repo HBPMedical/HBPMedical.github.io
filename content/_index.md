@@ -6,8 +6,7 @@ weight: 0
 draft: false
 
 ---
-[![Twitter](https://img.shields.io/twitter/follow/HBPmedical%20platform.svg?style=social)](https://twitter.com/intent/follow?screen_name=HBPmedical) [![Slack](https://img.shields.io/badge/slack-dev channel-e01563.svg)](https://hbpsp8.slack.com/archives/dev)
-[![Trello](https://img.shields.io/badge/trello-board-blue.svg)](https://trello.com/hbpsp8)
+[![Twitter](https://img.shields.io/twitter/follow/HBPmedical.svg?style=social)](https://twitter.com/intent/follow?screen_name=HBPmedical) [![Slack](https://img.shields.io/badge/slack-dev channel-e01563.svg)](https://hbpsp8.slack.com/archives/dev) [![Trello](https://img.shields.io/badge/trello-board-blue.svg)](https://trello.com/hbpsp8)
 
 ## Medical Informatics Platform for the Human Brain Project
 

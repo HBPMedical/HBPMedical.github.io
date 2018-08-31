@@ -4,8 +4,12 @@ canonifyurls = true
 googleAnalytics = "UA-80660232-2"
 languageCode = "en-uk"
 metadataformat = "yaml"
-theme = "hugo-material-docs"
+theme = "learn"
 title = "HBP Medical"
+
+# For search functionality
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
 
 [params]
 	# General information
@@ -29,6 +33,8 @@ title = "HBP Medical"
 
 	# Syntax highlighting theme
 	highlight_css  = ""
+
+	themeVariant = "mip"
 
 [params.palette]
     	primary = "red"

@@ -1,9 +1,8 @@
 ---
-title: Technology stack
-date: '2016-11-08T18:14:51+02:00'
-weight: 31
+date: 2016-03-09T20:10:46+01:00
+title: Technology Stack
+weight: 40
 draft: false
-
 ---
 
 {{< loading_frame_msg message="Loading technology stack..." >}}

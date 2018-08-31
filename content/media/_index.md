@@ -1,6 +1,8 @@
 ---
 date: 2017-05-16T17:33:14+02:00
 title: Media
+weight: 10
+draft: false
 ---
 
 ## MIP in a Nutshell
@@ -24,13 +26,3 @@ The Medical Informatics Platform (MIP), built by Subproject 8 of the Human Brain
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MNWExzouMJw" frameborder="0" allowfullscreen></iframe>
-
-## Twitter
-
-<a class="twitter-timeline" href="https://twitter.com/HBPmedical"></a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-## Test Your Knowledge
-
-<center>
-	<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSebuKjMqBM6e-944sB1RwmgsYBR1qKyhzKa8BLp-9TnNXJwOA/viewform?embedded=true" width="100%" height="350" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-</center>
