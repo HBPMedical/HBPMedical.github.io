@@ -51,55 +51,6 @@ home = [ "HTML", "RSS", "JSON"]
 	email   = "hbp_medicalinformatics@chuv.ch"
 
 
-#[[menu.main]]
-#	name   = "Material"
-#	url    = "/"
-#	weight = 0
-
-[[menu.main]]
-	name   = "HBP Medical"
-	url    = "/"
-	weight = 10
-
-[[menu.main]]
-	name   = "Documentation"
-	url    = "documentation/"
-	weight = 20
-
-[[menu.main]]
-	name   = "Development Process"
-	url    = "development-process/"
-	weight = 30
-
-[[menu.main]]
-	name   = "Software Catalog"
-	url    = "software-catalog/"
-	weight = 40
-
-[[menu.main]]
-	name   = "Technology Stack"
-	url    = "technology-stack/"
-	weight = 50
-
-[[menu.main]]
-	name   = "Technical specifications"
-	url    = "https://hbpmedical.github.io/specifications/"
-	weight = 60
-
-[[menu.main]]
-	name   = "Deployment requirements"
-	url    = "https://hbpmedical.github.io/deployment/"
-	weight = 60
-
-[[menu.main]]
-	name   = "Media"
-	url    = "media/"
-	weight = 70
-
-[[menu.main]]
-	name   = "Search"
-	url    = "search/"
-	weight = 80
 
 [blackfriday]
 	smartypants	= true

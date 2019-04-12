@@ -1,6 +1,6 @@
 ---
 title: Development process
-date: '2016-10-07T18:23:51+02:00'
+date: '2016-10-31T18:23:51+02:00'
 weight: 30
 draft: false
 
