@@ -104,3 +104,8 @@ a:hover {
 #body-inner p > a > img{
     display: inline-block !important;
 }
+
+#body-inner table tr td img{
+    display: inline-block;
+    margin: 1rem auto;
+}

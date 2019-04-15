@@ -9,9 +9,9 @@ This catalog attempts to collect all open-source software produced for the Medic
 
 It should contain all publicly accessible software for the phase SGA1 month 6.
 
-## Open source software
+### Open source software
 
-### Infrastructure
+#### Infrastructure
 
 [![Trello](https://img.shields.io/badge/trello-components-blue.svg)](https://trello.com/b/h66fm9Ad/components-research-infrastructure) [![Trello](https://img.shields.io/badge/trello-planning-blue.svg)](https://trello.com/b/droxZvFT/plans-research-infrastructure)
 
@@ -30,7 +30,7 @@ It should contain all publicly accessible software for the phase SGA1 month 6.
 | [RAW-deploy](https://github.com/HBPMedical/RAW-deploy) | [![EPFL](https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg)](http://dias.epfl.ch/) | ![License](https://img.shields.io/badge/license-MIT-blue.svg) |   |
 | [ExaremeLocal-docker](https://github.com/HBPMedical/ExaremeLocal-docker)  | [![UOA](https://img.shields.io/badge/UOA-madgik-BDCFD6.svg)](http://www.madgik.di.uoa.gr/)   | ![License](https://img.shields.io/badge/license-MIT-blue.svg)   |   |
 
-### Web Portal, exploration and analytics, scientific applications
+#### Web Portal, exploration and analytics, scientific applications
 
 [![Trello](https://img.shields.io/badge/trello-planning-blue.svg)](https://trello.com/b/lr3NS4W6/plans-web-front-end)
 
@@ -47,7 +47,7 @@ It should contain all publicly accessible software for the phase SGA1 month 6.
 | [gene-expression](https://github.com/HBPMedical/gene-expression) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](https://github.com/HBPMedical/gene-expression/blob/master/LICENSE) |   |   |
 | [2d-biological-rules](https://github.com/HBPMedical/2d-biological-rules) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](https://github.com/HBPMedical/2d-biological-rules/blob/master/LICENSE) |   |   |
 
-### Algorithm factory
+#### Algorithm factory
 
 [![Trello](https://img.shields.io/badge/trello-components-blue.svg)](https://trello.com/b/cyfEfKE1/components-algorithms-factory)
 [![Trello](https://img.shields.io/badge/trello-brainstorming-blue.svg)](https://trello.com/b/DZPzFjkc/brainstorm-algorithm-factory)
@@ -60,7 +60,7 @@ It should contain all publicly accessible software for the phase SGA1 month 6.
 | [functions-repository](https://github.com/HBPMedical/functions-repository) |  [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](https://github.com/LREN-CHUV/mip-microservices-infrastructure/blob/master/LICENSE.md) |   |   |
 | [sample-datasets-db](https://github.com/HBPMedical/sample-datasets-db) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](https://github.com/HBPMedical/sample-datasets-db/blob/master/LICENSE) |   |   |
 
-### Data Factory
+#### Data Factory
 
 [![Trello](https://img.shields.io/badge/trello-components-blue.svg)](https://trello.com/b/Jds1UVM8/components-data-factory)
 [![Trello](https://img.shields.io/badge/trello-brainstorming-blue.svg)](https://trello.com/b/cpWUxi2U/brainstorm-data-factory) [![Trello](https://img.shields.io/badge/trello-planning-blue.svg)](https://trello.com/b/HKabY13b/plans-data-factory)
@@ -76,7 +76,7 @@ It should contain all publicly accessible software for the phase SGA1 month 6.
 | [airflow-imaging-plugins](https://github.com/HBPMedical/airflow-imaging-plugins) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](https://github.com/HBPMedical/airflow-imaging-plugins/blob/master/LICENSE) |   | [![Codacy Badge](https://api.codacy.com/project/badge/Grade/7a9c796392e4420495ee1fabd0fce9ae)](https://www.codacy.com/app/hbp-mip/airflow-imaging-plugins?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=LREN-CHUV/airflow-imaging-plugins&amp;utm_campaign=Badge_Grade) [![Code Health](https://landscape.io/github/LREN-CHUV/airflow-imaging-plugins/master/landscape.svg?style=flat)](https://landscape.io/github/LREN-CHUV/airflow-imaging-plugins/master) |
 | [data-factory-airflow-dags](https://github.com/HBPMedical/data-factory-airflow-dags) | [![CHUV](https://img.shields.io/badge/CHUV-LREN-AF4C64.svg)](https://www.unil.ch/lren/en/home.html) | [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](https://github.com/HBPMedical/airflow-mri-preprocessing-dags/blob/master/LICENSE) |   | [![Codacy Badge](https://api.codacy.com/project/badge/Grade/8c5c9dc3cfb8492f870369c973f3cc8c)](https://www.codacy.com/app/hbp-mip/airflow-mri-preprocessing-dags?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=LREN-CHUV/airflow-mri-preprocessing-dags&amp;utm_campaign=Badge_Grade) [![Code Health](https://landscape.io/github/LREN-CHUV/airflow-mri-preprocessing-dags/master/landscape.svg?style=flat)](https://landscape.io/github/LREN-CHUV/airflow-mri-preprocessing-dags/master) |
 
-### Algorithm Library
+#### Algorithm Library
 
 | Algorithm Library | Organisation | License | Planning   | Continuous integration |
 |-------------------|--------------|---------|------------|------------------------|
@@ -90,7 +90,7 @@ It should contain all publicly accessible software for the phase SGA1 month 6.
 | [bhtsne](https://github.com/HBPMedical/bhtsne) | [![LUMC](https://img.shields.io/badge/LUMC-LKEB-99CBE7.svg)](https://www.lumc.nl/org/radiologie/research/87377/) | [![License](https://img.shields.io/badge/license-BSD-blue.svg)](https://github.com/HBPMedical/btsne/blob/master/LICENSE.txt) |   |   |
 | [Rtsne](https://github.com/HBPMedical/Rtsne) | [![LUMC](https://img.shields.io/badge/LUMC-LKEB-99CBE7.svg)](https://www.lumc.nl/org/radiologie/research/87377/) | [![License](https://img.shields.io/badge/license-BSD--3--clause-blue.svg)](https://github.com/HBPMedical/Rtsne/blob/master/LICENSE) |   |   |
 
-### Hospital Database Bundle
+#### Hospital Database Bundle
 
 | Hospital database Bundle | Organisation   | License     | Planning               | Continuous integration |
 |--------------------------|----------------|-------------|------------------------|------------------------|
@@ -103,7 +103,7 @@ It should contain all publicly accessible software for the phase SGA1 month 6.
 | [JDBCValidator](https://github.com/HBPMedical/JDBCValidator)																				| [![EPFL](https://img.shields.io/badge/EPFL-DIAS-6A5ACD.svg)](http://dias.epfl.ch/)		| [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/HBPMedical/JDBCValidator/blob/master/LICENSE.md)			|   |   |
 | [Exareme](https://github.com/HBPMedical/exareme) | [![UOA](https://img.shields.io/badge/UOA-madgik-BDCFD6.svg)](http://www.madgik.di.uoa.gr/) | [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/HBPMedical/exareme/blob/mip/LICENSE) |   | ![Travis-CI](https://travis-ci.org/madgik/exareme.svg?branch=mip)  |
 
-## Docker images
+### Docker images
 
 The Organisation and License column below refer to the docker image packaging. For the software contained in the images, please refer to the tables above.
 
