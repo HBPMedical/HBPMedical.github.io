@@ -58,3 +58,8 @@ Here is a list of DICOM tags we are interested in :
 | FlipAngle  | DS | No  | Steady state angle in degrees to which the magnetic vector is flipped from the magnetic vector of the primary field.  |
 | PercentSampling | DS | No  | Fraction of acquisition matrix lines acquired, expressed as a percent.  |
 | EchoNumber | IS | No  | The echo number used in generating this image. In the case of segmented k-space, it is the effective Echo Number.  |
+
+
+For more information about the attributes type, have a look at : [http://northstar-www.dartmouth.edu/doc/idl/html_6.2/Value_Representations.html](http://northstar-www.dartmouth.edu/doc/idl/html_6.2/Value_Representations.html).
+
+NOTE: If the ‘MANDATORY’ column contains a number, only one of the tags marked with the same number is needed (e.g. only one of the ‘PatientAge’ and ‘PatientBirthDate’ tags is needed).
