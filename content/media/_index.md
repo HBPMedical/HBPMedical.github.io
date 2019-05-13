@@ -15,7 +15,7 @@ draft: false
 - Apps section revamped (style improved + voting) (please note that the Apps section is still in the incipient phase and further work will be engaged to improve it)
 - Epidemiological Exploration : user may now select a whole group of variables for configuration and creation of Models
 
-### First public release of the MIP (March 2016)</h3>
+### First public release of the MIP (March 2016)
 
 The MIP was publicly released on 31st March 2016 along with the other platforms of the Human Brain Project. The video below features all platforms, while the part dedicated to the MIP is to be seen between 1:45:00 and 2:00:00
 
