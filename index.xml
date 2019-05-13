@@ -12,4 +12,50 @@
     
     
   </channel>
+</rss>itle>Twitter</title>
+      <link>/media/twitter/</link>
+      <pubDate>Fri, 31 Aug 2018 17:33:14 +0200</pubDate>
+      
+      <guid>/media/twitter/</guid>
+      <description>Twitter</description>
+    </item>
+    
+    <item>
+      <title>CHUV</title>
+      <link>/contributors/chuv/</link>
+      <pubDate>Mon, 27 Mar 2017 14:14:51 +0200</pubDate>
+      
+      <guid>/contributors/chuv/</guid>
+      <description>LREN laboratory at CHUV LREN is the Laboratoire de recherche en neuroimagerie and belongs to CHUV, Centre hospitalier universitaire vaudois, a major hospital in Lausanne, Switzerland.
+ Github repository</description>
+    </item>
+    
+    <item>
+      <title>EPFL</title>
+      <link>/contributors/epfl/</link>
+      <pubDate>Mon, 27 Mar 2017 14:14:51 +0200</pubDate>
+      
+      <guid>/contributors/epfl/</guid>
+      <description>DIAS laborary at EPFL</description>
+    </item>
+    
+    <item>
+      <title>UoA</title>
+      <link>/contributors/uoa/</link>
+      <pubDate>Mon, 27 Mar 2017 14:14:51 +0200</pubDate>
+      
+      <guid>/contributors/uoa/</guid>
+      <description>MADGIK at University of Athens</description>
+    </item>
+    
+    <item>
+      <title>AUEB</title>
+      <link>/contributors/aueb/</link>
+      <pubDate>Mon, 27 Mar 2017 14:14:51 +0200</pubDate>
+      
+      <guid>/contributors/aueb/</guid>
+      <description>Athens University of Economics and Business</description>
+    </item>
+    
+  </channel>
 </rss>
