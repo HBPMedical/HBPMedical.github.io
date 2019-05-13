@@ -7,7 +7,7 @@ jobs:
       HUGO_BUILD_DIR: ~/hugo/public
     steps:
       - checkout
-      -run:
+      - run:
           name: "Checkout content"
           command: git checkout content
       - run:
