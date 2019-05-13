@@ -1,0 +1,12 @@
+version: 2.1
+
+jobs:
+  build:
+    docker:
+      - image: circleci/buildpack-deps:xenial
+    steps:
+      - run:
+          name: 'Build static website'
+          command: |
+            git checkout content
+            docker run --rm -P  -v $(pwd):/src -v $(pwd)/../HBPMedical.github.io/:/output/ jojomi/hugo:0.48
