@@ -5,8 +5,17 @@ jobs:
     docker:
       - image: circleci/buildpack-deps:xenial
     steps:
+      - setup_remote_docker:
+          docker_layer_caching: true
+      - checkout
       - run:
           name: 'Build static website'
           command: |
             git checkout content
             docker run --rm -P  -v $(pwd):/src -v $(pwd)/../HBPMedical.github.io/:/output/ jojomi/hugo:0.48
+
+workflows:
+  version: 2
+  build:
+    jobs:
+      - build
