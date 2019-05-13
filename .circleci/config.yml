@@ -1,17 +1,18 @@
 version: 2.1
-
 jobs:
   build:
-    machine: true
+    docker:
+      - image: cibuilds/hugo:latest
+    environment:
+      HUGO_BUILD_DIR: ~/hugo/public
     steps:
-      - setup_remote_docker:
-          docker_layer_caching: true
       - checkout
       - run:
-          name: 'Build static website'
-          command: |
-            git checkout content
-            docker run --rm -P  -v $(pwd):/src jojomi/hugo:0.48
+          name: "Run Hugo"
+          command: HUGO_ENV=production hugo -v -s src/
+      - run:
+          name: "Test Website"
+          command: htmlproofer src/public --allow-hash-href --check-html --empty-alt-ignore --disable-external
 
 workflows:
   version: 2
