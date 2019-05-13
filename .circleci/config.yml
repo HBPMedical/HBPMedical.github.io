@@ -7,12 +7,15 @@ jobs:
       HUGO_BUILD_DIR: ~/hugo/public
     steps:
       - checkout
+      -run:
+          name: "Checkout content"
+          command: git checkout content
       - run:
           name: "Run Hugo"
           command: HUGO_ENV=production hugo -v -s src/
       - run:
           name: "Test Website"
-          command: htmlproofer src/public --allow-hash-href --check-html --empty-alt-ignore --disable-external
+          command: htmlproofer public --allow-hash-href --check-html --empty-alt-ignore --disable-external
 
 workflows:
   version: 2
