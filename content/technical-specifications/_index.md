@@ -4,25 +4,25 @@ weight: 70
 draft: false
 ---
 
-#### [ - Data flow](./data-flow)
+#### [- Data flow](./data-flow)
 
-_Flow of data in the platform_
+Flow of data in the platform
 
-#### [ - Data Capture](./data-capture)
+#### [- Data Capture](./data-capture)
 
-_Goals of Data Capture_
+Goals of Data Capture
 
-#### [ - Data Factory](./data-factory)
+#### [- Data Factory](./data-factory)
 
-_Goals of Data Factory_
+Goals of Data Factory
 
-#### [ - Algorithm Factory](./algorithm-factory)
+#### [- Algorithm Factory](./algorithm-factory)
 
-_Chapter X Some Chapter title Lorem ipsum_
+Chapter X Some Chapter title Lorem ipsum
 
-#### [ - Hospital Database](./hospital-database)
+#### [- Hospital Database](./hospital-database)
 
-_Import of data in LDSM Once the harmonised data is available in the i2b2, it is made available in the LDSM through csv files and exposed to the Web Portal and Exareme as tables. The current schema is based on the requirement of the Web Portal and the available variables. Currently (July 2017), the schema used is a big table containing one column per variable, and one line per patient and visit._
+Import of data in LDSM Once the harmonised data is available in the i2b2, it is made available in the LDSM through csv files and exposed to the Web Portal and Exareme as tables. The current schema is based on the requirement of the Web Portal and the available variables. Currently (July 2017), the schema used is a big table containing one column per variable, and one line per patient and visit.
 
 ### The different versions of MIP
 
