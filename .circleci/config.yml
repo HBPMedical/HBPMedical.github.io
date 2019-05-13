@@ -11,6 +11,9 @@ jobs:
           name: "Checkout content"
           command: git checkout content
       - run:
+          name: "Checkout theme"
+          command: sh after-git-clone.sh
+      - run:
           name: "Run Hugo"
           command: HUGO_ENV=production hugo -v
       - run:
