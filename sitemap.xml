@@ -3,140 +3,193 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hbpmedical.github.io/documentation/</loc>
-    <lastmod>2016-09-28T12:34:51+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hbpmedical.github.io/contributors/</loc>
-    <lastmod>2017-03-27T14:14:51+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hbpmedical.github.io/development-process/</loc>
-    <lastmod>2016-10-07T18:23:51+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hbpmedical.github.io/contributors/aueb/</loc>
-    <lastmod>2017-03-27T14:14:51+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hbpmedical.github.io/contributors/epfl/</loc>
-    <lastmod>2017-03-27T14:14:51+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hbpmedical.github.io/contributors/chuv/</loc>
-    <lastmod>2017-03-27T14:14:51+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hbpmedical.github.io/contributors/uoa/</loc>
-    <lastmod>2017-03-27T14:14:51+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hbpmedical.github.io/software-catalog/</loc>
-    <lastmod>2016-10-30T18:23:51+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hbpmedical.github.io/software-catalog/stack/</loc>
-    <lastmod>2016-11-08T18:14:51+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hbpmedical.github.io/technology-stack/</loc>
-    <lastmod>2016-03-09T20:10:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hbpmedical.github.io/search/</loc>
-    <lastmod>2017-05-17T11:11:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hbpmedical.github.io/media/</loc>
-    <lastmod>2017-05-16T17:33:14+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hbpmedical.github.io/release-notes/</loc>
-    <lastmod>2017-05-16T17:33:06+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hbpmedical.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2016-09-28T12:33:51+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hbpmedical.github.io/documentation/</loc>
+    <loc>/</loc>
+    <lastmod>2016-09-28T12:33:51+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hbpmedical.github.io/categories/</loc>
-    <priority>0</priority>
+    <loc>/media/twitter/</loc>
+    <lastmod>2018-08-31T17:33:14+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hbpmedical.github.io/contributors/</loc>
+    <loc>/contributors/chuv/</loc>
     <lastmod>2017-03-27T14:14:51+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hbpmedical.github.io/development-process/</loc>
-    <lastmod>2016-10-07T18:23:51+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hbpmedical.github.io/documentation/</loc>
+    <loc>/documentation/</loc>
     <lastmod>2016-09-28T12:34:51+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hbpmedical.github.io/</loc>
-    <lastmod>2016-09-28T12:34:51+02:00</lastmod>
-    <priority>0</priority>
+    <loc>/documentation/user-documentation/</loc>
   </url>
   
   <url>
-    <loc>https://hbpmedical.github.io/media/</loc>
-    <lastmod>2017-05-16T17:33:14+02:00</lastmod>
-    <priority>0</priority>
+    <loc>/documentation/technical-documentation/</loc>
   </url>
   
   <url>
-    <loc>https://hbpmedical.github.io/release-notes/</loc>
-    <lastmod>2017-05-16T17:33:06+02:00</lastmod>
-    <priority>0</priority>
+    <loc>/contributors/epfl/</loc>
+    <lastmod>2017-03-27T14:14:51+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hbpmedical.github.io/search/</loc>
-    <lastmod>2017-05-17T11:11:46+02:00</lastmod>
-    <priority>0</priority>
+    <loc>/contributors/uoa/</loc>
+    <lastmod>2017-03-27T14:14:51+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hbpmedical.github.io/software-catalog/</loc>
+    <loc>/development-process/</loc>
+    <lastmod>2016-10-31T18:23:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/contributors/aueb/</loc>
+    <lastmod>2017-03-27T14:14:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/software-catalog/</loc>
     <lastmod>2016-10-30T18:23:51+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hbpmedical.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hbpmedical.github.io/technology-stack/</loc>
+    <loc>/technology-stack/</loc>
     <lastmod>2016-03-09T20:10:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/deployment-requirements/</loc>
+  </url>
+  
+  <url>
+    <loc>/deployment-requirements/hardware/</loc>
+  </url>
+  
+  <url>
+    <loc>/deployment-requirements/operating-system/</loc>
+  </url>
+  
+  <url>
+    <loc>/deployment-requirements/software/</loc>
+  </url>
+  
+  <url>
+    <loc>/deployment-requirements/external-services/</loc>
+  </url>
+  
+  <url>
+    <loc>/deployment-requirements/data/</loc>
+  </url>
+  
+  <url>
+    <loc>/deployment-pack/</loc>
+  </url>
+  
+  <url>
+    <loc>/technical-specifications/</loc>
+  </url>
+  
+  <url>
+    <loc>/technical-specifications/data-flow/</loc>
+  </url>
+  
+  <url>
+    <loc>/technical-specifications/data-capture/</loc>
+  </url>
+  
+  <url>
+    <loc>/technical-specifications/data-factory/</loc>
+  </url>
+  
+  <url>
+    <loc>/technical-specifications/algorithm-factory/</loc>
+  </url>
+  
+  <url>
+    <loc>/technical-specifications/hospital-database/</loc>
+  </url>
+  
+  <url>
+    <loc>/media/</loc>
+    <lastmod>2017-05-16T17:33:14+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/contributors/</loc>
+    <lastmod>2017-03-27T14:14:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/technical-specifications/data-flow/mip-local/</loc>
+  </url>
+  
+  <url>
+    <loc>/technical-specifications/data-flow/mip-federation/</loc>
+  </url>
+  
+  <url>
+    <loc>/technical-specifications/data-capture/input/</loc>
+  </url>
+  
+  <url>
+    <loc>/technical-specifications/data-capture/anonymizer/</loc>
+  </url>
+  
+  <url>
+    <loc>/technical-specifications/data-capture/output/</loc>
+  </url>
+  
+  <url>
+    <loc>/technical-specifications/data-factory/input/</loc>
+  </url>
+  
+  <url>
+    <loc>/technical-specifications/data-factory/images/</loc>
+  </url>
+  
+  <url>
+    <loc>/technical-specifications/data-factory/pipelines/</loc>
+  </url>
+  
+  <url>
+    <loc>/technical-specifications/data-factory/capture_i2b2/</loc>
+  </url>
+  
+  <url>
+    <loc>/technical-specifications/data-factory/cde/</loc>
+  </url>
+  
+  <url>
+    <loc>/technical-specifications/data-factory/cde_i2b2/</loc>
+  </url>
+  
+  <url>
+    <loc>/technical-specifications/data-factory/output/</loc>
+  </url>
+  
+  <url>
+    <loc>/technical-specifications/data-factory/provenance/</loc>
+  </url>
+  
+  <url>
+    <loc>/technical-specifications/hospital-database/distributed-queries/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   

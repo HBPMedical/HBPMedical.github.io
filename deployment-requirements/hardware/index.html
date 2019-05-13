@@ -1,0 +1,1997 @@
+<!DOCTYPE html>
+<html lang="en" class="js csstransforms3d">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="generator" content="Hugo 0.48" />
+    <meta name="description" content="SP8 subproject (Medical Informatics Platform) for the Human Brain Project.">
+<meta name="author" content="HBPMedical">
+
+    <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon" />
+<link rel="icon" href="/images/favicon.png" type="image/x-icon" />
+    <title>Hardware :: HBP Medical</title>
+
+    
+    <link href="/css/nucleus.css?1557733502" rel="stylesheet">
+    <link href="/css/fontawesome-all.min.css?1557733502" rel="stylesheet">
+    <link href="/css/hybrid.css?1557733502" rel="stylesheet">
+    <link href="/css/featherlight.min.css?1557733502" rel="stylesheet">
+    <link href="/css/perfect-scrollbar.min.css?1557733502" rel="stylesheet">
+    <link href="/css/auto-complete.css?1557733502" rel="stylesheet">
+    <link href="/css/theme.css?1557733502" rel="stylesheet">
+    <link href="/css/hugo-theme.css?1557733502" rel="stylesheet">
+    
+      <link href="/css/theme-mip.css?1557733502" rel="stylesheet">
+    
+
+    <script src="/js/jquery-2.x.min.js?1557733502"></script>
+
+    <style type="text/css">
+      :root #header + #content > #left > #rlblock_left{
+          display:none !important;
+      }
+      
+    </style>
+    
+  </head>
+  <body class="" data-url="/deployment-requirements/hardware/">
+    <nav id="sidebar" class="">
+
+
+
+  <div id="header-wrapper">
+    <div id="header">
+      <a href="https://www.humanbrainproject.eu/en/medicine/"><img src="/images/hbp.png" /></a>
+
+    </div>
+    
+        <div class="searchbox">
+    <label for="search-by"><i class="fas fa-search"></i></label>
+    <input data-search-input id="search-by" type="text" placeholder="Search...">
+    <span data-search-clear=""><i class="fas fa-close"></i></span>
+</div>
+
+<script type="text/javascript" src="/js/lunr.min.js?1557733502"></script>
+<script type="text/javascript" src="/js/auto-complete.js?1557733502"></script>
+<script type="text/javascript">
+    
+        var baseurl = '\/';
+    
+</script>
+<script type="text/javascript" src="/js/search.js?1557733502"></script>
+
+    
+  </div>
+
+    <div class="highlightable">
+    <ul class="topics">
+
+        
+          
+          
+
+
+ 
+  
+    
+    <li data-nav-id="/" title="HBP Medical" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/">
+          HBP Medical
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+          
+          
+
+
+ 
+  
+    
+    <li data-nav-id="/documentation/" title="Documentation" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/documentation/">
+          Documentation
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+            
+          
+          
+          
+        
+          
+            
+            
+
+
+ 
+  
+    
+    <li data-nav-id="/documentation/user-documentation/" title="User Documentation" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/documentation/user-documentation/">
+          User Documentation
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+    <li data-nav-id="/documentation/technical-documentation/" title="Technical Documentation" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/documentation/technical-documentation/">
+          Technical Documentation
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+          
+          
+
+
+ 
+  
+    
+    <li data-nav-id="/development-process/" title="Development process" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/development-process/">
+          Development process
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+          
+          
+
+
+ 
+  
+    
+    <li data-nav-id="/software-catalog/" title="Software Catalog" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/software-catalog/">
+          Software Catalog
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+          
+          
+
+
+ 
+  
+    
+    <li data-nav-id="/technology-stack/" title="Technology Stack" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/technology-stack/">
+          Technology Stack
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+          
+          
+
+
+ 
+  
+    
+    <li data-nav-id="/deployment-requirements/" title="Deployment Requirements" class="dd-item 
+        parent
+        
+        
+        ">
+      <a href="/deployment-requirements/">
+          Deployment Requirements
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+            
+          
+          
+          
+        
+          
+            
+            
+
+
+ 
+  
+    
+    <li data-nav-id="/deployment-requirements/hardware/" title="Hardware" class="dd-item 
+        parent
+        active
+        
+        ">
+      <a href="/deployment-requirements/hardware/">
+          Hardware
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+    <li data-nav-id="/deployment-requirements/operating-system/" title="Operating System" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/deployment-requirements/operating-system/">
+          Operating System
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+    <li data-nav-id="/deployment-requirements/software/" title="Software" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/deployment-requirements/software/">
+          Software
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+    <li data-nav-id="/deployment-requirements/external-services/" title="External Services" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/deployment-requirements/external-services/">
+          External Services
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+    <li data-nav-id="/deployment-requirements/data/" title="Data" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/deployment-requirements/data/">
+          Data
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+          
+          
+
+
+ 
+  
+    
+    <li data-nav-id="/deployment-pack/" title="Deployment Pack" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/deployment-pack/">
+          Deployment Pack
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+          
+          
+
+
+ 
+  
+    
+    <li data-nav-id="/technical-specifications/" title="Technical Specifications" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/technical-specifications/">
+          Technical Specifications
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+            
+          
+          
+          
+        
+          
+            
+            
+
+
+ 
+  
+    
+    <li data-nav-id="/technical-specifications/data-flow/" title="Data Flow" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/technical-specifications/data-flow/">
+          Data Flow
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+            
+          
+          
+          
+        
+          
+            
+            
+
+
+ 
+  
+    
+    <li data-nav-id="/technical-specifications/data-flow/mip-local/" title="Flow in MIP Local" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/technical-specifications/data-flow/mip-local/">
+          Flow in MIP Local
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+    <li data-nav-id="/technical-specifications/data-flow/mip-federation/" title="Flow in MIP Federation" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/technical-specifications/data-flow/mip-federation/">
+          Flow in MIP Federation
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+    <li data-nav-id="/technical-specifications/data-capture/" title="Data Capture" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/technical-specifications/data-capture/">
+          Data Capture
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+            
+          
+          
+          
+        
+          
+            
+            
+
+
+ 
+  
+    
+    <li data-nav-id="/technical-specifications/data-capture/input/" title="Data Capture Input" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/technical-specifications/data-capture/input/">
+          Data Capture Input
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+    <li data-nav-id="/technical-specifications/data-capture/anonymizer/" title="Anonymisation Module" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/technical-specifications/data-capture/anonymizer/">
+          Anonymisation Module
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+    <li data-nav-id="/technical-specifications/data-capture/output/" title="Data Capture Output" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/technical-specifications/data-capture/output/">
+          Data Capture Output
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+    <li data-nav-id="/technical-specifications/data-factory/" title="Data Factory" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/technical-specifications/data-factory/">
+          Data Factory
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+            
+          
+          
+          
+        
+          
+            
+            
+
+
+ 
+  
+    
+    <li data-nav-id="/technical-specifications/data-factory/input/" title="Data Factory" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/technical-specifications/data-factory/input/">
+          Data Factory
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+    <li data-nav-id="/technical-specifications/data-factory/images/" title="Requirements for imageing Data" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/technical-specifications/data-factory/images/">
+          Requirements for imageing Data
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+    <li data-nav-id="/technical-specifications/data-factory/pipelines/" title="Processing Pipelines" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/technical-specifications/data-factory/pipelines/">
+          Processing Pipelines
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+    <li data-nav-id="/technical-specifications/data-factory/capture_i2b2/" title="Capture Database" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/technical-specifications/data-factory/capture_i2b2/">
+          Capture Database
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+    <li data-nav-id="/technical-specifications/data-factory/cde/" title="Common Data Elements" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/technical-specifications/data-factory/cde/">
+          Common Data Elements
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+    <li data-nav-id="/technical-specifications/data-factory/cde_i2b2/" title="CDE-normalized database" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/technical-specifications/data-factory/cde_i2b2/">
+          CDE-normalized database
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+    <li data-nav-id="/technical-specifications/data-factory/output/" title="Data Factory Output" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/technical-specifications/data-factory/output/">
+          Data Factory Output
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+    <li data-nav-id="/technical-specifications/data-factory/provenance/" title="Provenance" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/technical-specifications/data-factory/provenance/">
+          Provenance
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+    <li data-nav-id="/technical-specifications/algorithm-factory/" title="Algorithm Factory" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/technical-specifications/algorithm-factory/">
+          Algorithm Factory
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+    <li data-nav-id="/technical-specifications/hospital-database/" title="Hospital Database" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/technical-specifications/hospital-database/">
+          Hospital Database
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+            
+          
+          
+          
+        
+          
+            
+            
+
+
+ 
+  
+    
+    <li data-nav-id="/technical-specifications/hospital-database/distributed-queries/" title="Distributed Queries" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/technical-specifications/hospital-database/distributed-queries/">
+          Distributed Queries
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+          
+          
+
+
+ 
+  
+    
+    <li data-nav-id="/media/" title="Media" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/media/">
+          Media
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+          
+          
+        
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/media/twitter/" title="Twitter" class="dd-item ">
+        <a href="/media/twitter/">
+        Twitter
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+          
+          
+
+
+ 
+  
+    
+    <li data-nav-id="/contributors/" title="Contributors to MIP" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/contributors/">
+          Contributors to MIP
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+          
+          
+        
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/contributors/chuv/" title="CHUV" class="dd-item ">
+        <a href="/contributors/chuv/">
+        CHUV
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/contributors/epfl/" title="EPFL" class="dd-item ">
+        <a href="/contributors/epfl/">
+        EPFL
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/contributors/uoa/" title="UoA" class="dd-item ">
+        <a href="/contributors/uoa/">
+        UoA
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/contributors/aueb/" title="AUEB" class="dd-item ">
+        <a href="/contributors/aueb/">
+        AUEB
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+          
+         
+    </ul>
+
+    
+    
+
+    
+    <section id="footer">
+      <p>Built with <a href="https://github.com/matcornic/hugo-theme-learn"><i class="fas fa-heart"></i></a> from <a href="http://getgrav.org">Grav</a> and <a href="http://gohugo.io/">Hugo</a></p>
+
+    </section>
+  </div>
+</nav>
+
+
+
+
+
+        <section id="body">
+        <div id="overlay"></div>
+        <div class="padding highlightable">
+              
+              <div>
+                <div id="top-bar">
+                
+                
+                <div id="breadcrumbs" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+                    <span id="sidebar-toggle-span">
+                        <a href="#" id="sidebar-toggle" data-sidebar-toggle="">
+                          <i class="fas fa-bars"></i>
+                        </a>
+                    </span>
+                  
+                  <span id="toc-menu"><i class="fas fa-list-alt"></i></span>
+                  
+                  <span class="links">
+                    
+          
+          
+            
+            
+          
+          
+            
+            
+          
+          
+            <a href='/'>HBP Medical</a> > <a href='/deployment-requirements/'>Deployment Requirements</a> > Hardware
+          
+         
+          
+         
+          
+           
+                  </span>
+                </div>
+                
+                    <div class="progress">
+    <div class="wrapper">
+<nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li>
+<ul>
+<li>
+<ul>
+<li><a href="#minimum-requirements">Minimum Requirements</a></li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul>
+</nav>
+    </div>
+</div>
+
+                
+              </div>
+            </div>
+            
+
+        
+        <div id="body-inner">
+          
+            <h1>Hardware</h1>
+          
+
+        
+
+
+
+
+<p>This page provides the complete set of minimum requirements that have to be met to deploy an instance of the MIP.</p>
+
+<p>In this document, Portal-Only stands for a MIP instance that does not include the data-factory component. This means that no MRI data pre-processing pipeline will be available. On the other hand, Full-Stack means that all the MIP component (including the data-factory) will be installed.</p>
+
+<p>As the MRI data pre-processing pipeline is highly resource consuming, it is strongly recommended to provide the MIP with enough hardware resources. For instance, 32 cores and 64GB memory seems to be a reasonnable configuration to process ~200 to ~400 scans.</p>
+
+<p>If needed, one can deploy the MIP on a cluster.</p>
+
+<h4 id="minimum-requirements">Minimum Requirements</h4>
+
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>CPU</th>
+<th>RAM</th>
+<th>Disk</th>
+<th>Network</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Portal-Only</td>
+<td>8 cores x64</td>
+<td>16GB</td>
+<td>100GB</td>
+<td>Secure clinical network with limited access to <a href="./external-services">external services</a></td>
+</tr>
+
+<tr>
+<td>Full-Stack</td>
+<td>16 cores x64</td>
+<td>32GB</td>
+<td>200GB + 15*IDS</td>
+<td>Secure clinical network with limited access to <a href="./external-services">external services</a></td>
+</tr>
+</tbody>
+</table>
+
+<p>where IDS stands for imaging data size.</p>
+
+
+<footer class=" footline" >
+	
+</footer>
+
+        
+        </div> 
+        
+
+      </div>
+
+    <div id="navigation">
+        
+        
+        
+        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+            
+        
+        
+        
+
+
+        
+            <a class="nav nav-prev" href="/deployment-requirements/" title="Deployment Requirements"> <i class="fas fa-chevron-left"></i></a>
+        
+        
+            <a class="nav nav-next" href="/deployment-requirements/operating-system/" title="Operating System" style="margin-right: 0px;"><i class="fas fa-chevron-right"></i></a>
+        
+    </div>
+
+    </section>
+    
+    <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
+      <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
+    </div>
+    <script src="/js/clipboard.min.js?1557733502"></script>
+    <script src="/js/perfect-scrollbar.min.js?1557733502"></script>
+    <script src="/js/perfect-scrollbar.jquery.min.js?1557733502"></script>
+    <script src="/js/jquery.sticky.js?1557733502"></script>
+    <script src="/js/featherlight.min.js?1557733502"></script>
+    <script src="/js/html5shiv-printshiv.min.js?1557733502"></script>
+    <script src="/js/highlight.pack.js?1557733502"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    <script src="/js/modernizr.custom.71422.js?1557733502"></script>
+    <script src="/js/learn.js?1557733502"></script>
+    <script src="/js/hugo-learn.js?1557733502"></script>
+
+    <link href="/mermaid/mermaid.css?1557733502" type="text/css" rel="stylesheet" />
+    <script src="/mermaid/mermaid.js?1557733502"></script>
+    <script>
+        mermaid.initialize({ startOnLoad: true });
+    </script>
+    
+
+  </body>
+</html>
