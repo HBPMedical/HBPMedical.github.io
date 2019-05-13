@@ -16,7 +16,7 @@ If needed, one can deploy the MIP on a cluster.
 
 | Name        | CPU          | RAM  | Disk           | Network                                                          |
 |-------------|--------------|------|----------------|------------------------------------------------------------------|
-| Portal-Only | 8 cores x64  | 16GB | 100GB          | Secure clinical network with limited access to [external services](./external-services) |
-| Full-Stack  | 16 cores x64 | 32GB | 200GB + 15*IDS | Secure clinical network with limited access to [external services](./external-services) |
+| Portal-Only | 8 cores x64  | 16GB | 100GB          | Secure clinical network with limited access to external services |
+| Full-Stack  | 16 cores x64 | 32GB | 200GB + 15*IDS | Secure clinical network with limited access to external services |
 
 where IDS stands for imaging data size.

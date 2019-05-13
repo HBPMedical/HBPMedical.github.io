@@ -13,7 +13,7 @@ The complete list of MIP tools is available [here](/docs/mip_tools.pdf).
 - [ADNI](#adni)
 - [PPMI](#ppmi)
 - [EDSD](#edsd)
-- [FREIBURG](#preiburg)
+- [FREIBURG](#freiburg)
 - [LAUSANNE](#lausanne)
 - [MILAN](#milan)
 - [LILLE](#lille)

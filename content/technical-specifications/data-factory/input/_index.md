@@ -42,4 +42,4 @@ The input of Data Factory is the [output](../../data-capture/output) of Data Cap
 	              └── ...                               -- more (or less) tables as needed, depends on hospital data
 
 
-In addition, currently our MRI image pre-processing pipelines are optimised to work only with [well-defined medical images](./images).
+In addition, currently our MRI image pre-processing pipelines are optimised to work only with well-defined medical images.

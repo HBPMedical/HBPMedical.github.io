@@ -14,7 +14,7 @@ draft: false
 [- ADNI](./user-documentation#adni)<br>
 [- PPMI](./user-documentation#ppmi)<br>
 [- EDSD](./user-documentation#edsd)<br>
-[- FREIBURG](./user-documentation#preiburg)<br>
+[- FREIBURG](./user-documentation#freiburg)<br>
 [- LAUSANNE](./user-documentation#lausanne)<br>
 [- MILAN](./user-documentation#milan)<br>
 [- LILLE](./user-documentation#lille)<br>

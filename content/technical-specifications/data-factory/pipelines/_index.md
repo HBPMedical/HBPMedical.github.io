@@ -18,13 +18,13 @@ This pipeline takes data organised on the disk in its original format and reorga
 
 ### EHR Curation Pipeline
 
-This pipeline captures as many variables as possible from the patient records and stores the data into a database compliant with I2B2 schema ([‘I2B2 capture’ database](./capture_i2b2))
+This pipeline captures as many variables as possible from the patient records and stores the data into a database compliant with I2B2 schema ([‘I2B2 capture’ database](../capture_i2b2))
 
 ![pipline-EHR-curation](./curation.svg)
 
 ### Metadata Curation Pipeline
 
-This pipeline collects the information associated with MRI scans and present either in DICOM headers or in associated metadata files and stores in into the (([‘I2B2 capture’ database](./capture_i2b2))
+This pipeline collects the information associated with MRI scans and present either in DICOM headers or in associated metadata files and stores in into the (([‘I2B2 capture’ database](../capture_i2b2))
 
 ![pipline-metadata-curation](./metadata-curation.svg)
 
